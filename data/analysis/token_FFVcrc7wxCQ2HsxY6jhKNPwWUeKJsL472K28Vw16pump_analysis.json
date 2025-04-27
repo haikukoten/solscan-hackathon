@@ -1,0 +1,35 @@
+{
+  "token_address": "FFVcrc7wxCQ2HsxY6jhKNPwWUeKJsL472K28Vw16pump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [],
+  "potential_dumpers": [],
+  "top_holders": [
+    {
+      "address": "Unknown",
+      "received": 211562123213783.0,
+      "percent_of_supply": 100.0
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "1970-01-01T00:00:00",
+        "volume": 211562123213783.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 1
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The token exhibits characteristics consistent with a pump and dump scheme due to the lack of sell transactions, significant hype on social media, and the concentration of trade activity in a single wallet.",
+    "detailed_report": ""
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "token_address": "GLeWRGNtMZibkf9zTSEjfssnaN2WCnKiBcZDiYe3pump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [
+    "Found 7 potential dumpers"
+  ],
+  "potential_dumpers": [
+    {
+      "address": "9s5wEu4GmKAsozeR8qDQsqAHkRJRcs6hzn62EQB9qokm",
+      "received": 2521071857.0,
+      "sent": 15229300896.0,
+      "net": -12708229039.0,
+      "dump_ratio": 6.040803975386252
+    },
+    {
+      "address": "HsjPW6DwDY3mCN55w8eDpFzP3a3CTPHvRcfJvcMAKFDa",
+      "received": 444002075011.0,
+      "sent": 1253561528127.0,
+      "net": -809559453116.0,
+      "dump_ratio": 2.823323580404311
+    },
+    {
+      "address": "8DsvsT97CQh74sxYNKKzxe51bmKPxpS23rNbJuvH2Qo4",
+      "received": 6182500448.0,
+      "sent": 15998801623.0,
+      "net": -9816301175.0,
+      "dump_ratio": 2.587755837231765
+    },
+    {
+      "address": "3ZAr9dKtjkojXxX2tAZ7qqkk22XyDoah7QPGGB3v2C3P",
+      "received": 8189675042.0,
+      "sent": 18320458864.0,
+      "net": -10130783822.0,
+      "dump_ratio": 2.2370190233489367
+    },
+    {
+      "address": "HkMRZA4LX9hgnprxviBRrXojZz24G3fTiwCAuZWQhMrV",
+      "received": 5883440619.0,
+      "sent": 13004464325.0,
+      "net": -7121023706.0,
+      "dump_ratio": 2.2103502299323536
+    }
+  ],
+  "top_holders": [
+    {
+      "address": "GYTVhDvNVKNKLVh7cD1odLP4XkFmoPMPKQQs8MfghKgV",
+      "received": 18870591024723.0,
+      "percent_of_supply": 45.568985651200926
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-27T10:00:00",
+        "volume": 41411040327218.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 288
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The analysis suggests that the token 'paperclip' is likely a pump and dump scheme, driven by significant sell-offs by top holders and social media hype.",
+    "detailed_report": ""
+  }
+}

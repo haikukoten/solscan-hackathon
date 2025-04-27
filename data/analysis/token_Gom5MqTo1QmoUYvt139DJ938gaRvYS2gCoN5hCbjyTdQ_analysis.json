@@ -1,0 +1,35 @@
+{
+  "token_address": "Gom5MqTo1QmoUYvt139DJ938gaRvYS2gCoN5hCbjyTdQ",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [],
+  "potential_dumpers": [],
+  "top_holders": [
+    {
+      "address": "Unknown",
+      "received": 1.1743865969808932e+18,
+      "percent_of_supply": 100.0
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "1970-01-01T00:00:00",
+        "volume": 1.1743865969808932e+18
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 1
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The token exhibits strong pump and dump characteristics due to its exclusive buy activity, high transaction concentration in a single wallet, and the lack of sell transactions that indicate manipulation.",
+    "detailed_report": ""
+  }
+}

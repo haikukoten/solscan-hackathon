@@ -1,0 +1,80 @@
+INFO:__main__:Starting Twitter keyword test with pump-and-dump indicators
+INFO:__main__:Testing 5 pump-related keywords with 240 minute lookback
+INFO:social_aggregator.twitter:Searching for keyword: SOL token moon
+INFO:social_aggregator.twitter:Fetched 4 new tweets for keyword: SOL token moon
+INFO:social_aggregator.twitter:Sample tweets for 'SOL token moon':
+INFO:social_aggregator.twitter:  Tweet 1: @RAIKIRIII_ - Sun Apr 27 07:06:32 +0000 2025
+INFO:social_aggregator.twitter:    Did you hear about $NOWK? yessss is @nowk_sol 
+
+This hidden gems, i sure..... To the moon with poten...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @RAIKIRIII_]
+INFO:social_aggregator.twitter:  Tweet 2: @apungbrkayy - Sun Apr 27 07:03:19 +0000 2025
+INFO:social_aggregator.twitter:    Did you hear about $NOWK? yessss is @nowk_sol 
+
+This hidden gems, i sure..... To the moon with poten...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @apungbrkayy]
+INFO:social_aggregator.twitter:Searching for keyword: solana 100x
+INFO:social_aggregator.twitter:Fetched 5 new tweets for keyword: solana 100x
+INFO:social_aggregator.twitter:Sample tweets for 'solana 100x':
+INFO:social_aggregator.twitter:  Tweet 1: @JASON_OF_CRYPTO - Sun Apr 27 07:24:49 +0000 2025
+INFO:social_aggregator.twitter:    @TheDonOfApes $BEEG about to print new ATH this cycle 
+Manifesting the next 100x gem kn solana $BEEG...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @JASON_OF_CRYPTO]
+INFO:social_aggregator.twitter:  Tweet 2: @GEMS_100_X - Sun Apr 27 07:24:07 +0000 2025
+INFO:social_aggregator.twitter:    No cap $1 up 6x today! Call was heat!  
+
+CA: JDqJRryr12NBUHfViymnydacvX3hEwf4Atn3Xt1Xpump  
+
+Peep th...
+INFO:social_aggregator.twitter:Searching for keyword: NOWK solana
+INFO:social_aggregator.twitter:Fetched 7 new tweets for keyword: NOWK solana
+INFO:social_aggregator.twitter:Sample tweets for 'NOWK solana':
+INFO:social_aggregator.twitter:  Tweet 1: @RikiArdiS2 - Sun Apr 27 07:24:57 +0000 2025
+INFO:social_aggregator.twitter:    When i tells you i've got $5 from this projects - i'm not playing
+
+You won't believe me till you pro...
+INFO:social_aggregator.twitter:  Tweet 2: @SGBtrail - Sun Apr 27 05:55:45 +0000 2025
+INFO:social_aggregator.twitter:    The $NOWK community is growing rapidly over time. 
+Get $5 free #NOWK for every tweet.
+Enter your twe...
+INFO:social_aggregator.twitter:Searching for keyword: solana easy gains
+INFO:social_aggregator.twitter:Fetched 12 new tweets for keyword: solana easy gains
+INFO:social_aggregator.twitter:Sample tweets for 'solana easy gains':
+INFO:social_aggregator.twitter:  Tweet 1: @LuckyGo_agent - Sat Apr 26 21:15:52 +0000 2025
+INFO:social_aggregator.twitter:    Whales are loading up on $ARC at $60-65M MC. Smart money knows something? 🐳 @jaredadcrypto sees easy...
+INFO:social_aggregator.twitter:  Tweet 2: @subtrain56 - Fri Apr 25 23:06:57 +0000 2025
+INFO:social_aggregator.twitter:    $pvs @PVT_Paraverse 
+
+One of my favorite #Gems 
+partners #NVIDIA #alibaba #awspartners 
+#DYOR this p...
+INFO:social_aggregator.twitter:Searching for keyword: solana gem
+INFO:social_aggregator.twitter:Fetched 8 new tweets for keyword: solana gem
+INFO:social_aggregator.twitter:Sample tweets for 'solana gem':
+INFO:social_aggregator.twitter:  Tweet 1: @GEMS_100_X_BC - Sun Apr 27 07:24:11 +0000 2025
+INFO:social_aggregator.twitter:    Just hit a clean 6x on $1! This gem is moving fast on Solana.
+
+CA: JDqJRryr12NBUHfViymnydacvX3hEwf4A...
+INFO:social_aggregator.twitter:  Tweet 2: @stormcrypto_xx - Sun Apr 27 07:23:16 +0000 2025
+INFO:social_aggregator.twitter:    12.8x made on $MVG 🔥🔥Let’s goo🚀🚀
+
+Next gem call coming to my private telegram soon🔥🔥
+
+📨Dm to join th...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @stormcrypto_xx]
+INFO:social_aggregator.twitter:Total unique tweets fetched: 36
+INFO:__main__:Search complete. Found 36 total unique tweets
+INFO:__main__:Found 1 high-confidence pump-and-dump tweets:
+INFO:__main__:
+HIGH CONFIDENCE TWEET #1 (score: 0.70):
+INFO:__main__:Author: @LuckyGo_agent - Sat Apr 26 21:15:52 +0000 2025
+INFO:__main__:Text: Whales are loading up on $ARC at $60-65M MC. Smart money knows something? 🐳 @jaredadcrypto sees easy 50% gains. Diamond hands, stop panic selling! #Solana #CryptoGems
+
+Ticker: $ARC (Created: 4 months ago)
+Price: $0.064000 | MCap: 64.30M
+Address: 61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump
+
+Early Signal, High Risk! DYOR!
+INFO:__main__:URL: https://x.com/LuckyGo_agent/status/1916239833284153671
+INFO:__main__:Test complete.
+Loaded environment variables from /root/hackathon/solscan-proj/.env

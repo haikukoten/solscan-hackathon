@@ -1,0 +1,39 @@
+{
+  "token_address": "HWRpcStdLGqvaBwqiwp5kPzi1rdxQwnD8jmFRSLYpump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [],
+  "potential_dumpers": [],
+  "top_holders": [
+    {
+      "address": "83FmJTSfmKgUbEeJW3zxGsUG1tBAyWuA3ckDWnZhZB6x",
+      "received": 1567546504517943.0,
+      "percent_of_supply": 69.732726361995
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-27T10:00:00",
+        "volume": 2195673940772503.0
+      },
+      {
+        "timestamp": "2025-04-27T11:00:00",
+        "volume": 52261263109430.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 162,
+    "buys": 162,
+    "sells": 0,
+    "unique_wallets": 65
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The MILHOUSE HOUSE token exhibits several characteristics indicative of a pump and dump scheme, particularly due to its highly centralized holder distribution and significant net selling by a few addresses shortly after transaction activity peaked.",
+    "detailed_report": ""
+  }
+}

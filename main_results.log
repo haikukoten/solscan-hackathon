@@ -1,0 +1,136 @@
+INFO:__main__:Starting Solana Pump-and-Dump Monitor
+INFO:__main__:Check interval: 300 seconds
+INFO:__main__:Using specialized pump-and-dump keywords for Twitter search
+INFO:__main__:Using gpt-4o-mini for analysis
+INFO:__main__:Starting new monitor cycle...
+INFO:__main__:--- Fetching Social Data ---
+INFO:social_aggregator.twitter:Searching for keyword: NOWK solana
+INFO:social_aggregator.twitter:Fetched 9 new tweets for keyword: NOWK solana
+INFO:social_aggregator.twitter:Sample tweets for 'NOWK solana':
+INFO:social_aggregator.twitter:  Tweet 1: @RikiArdiS2 - Sun Apr 27 07:24:57 +0000 2025
+INFO:social_aggregator.twitter:    When i tells you i've got $5 from this projects - i'm not playing
+
+You won't believe me till you pro...
+INFO:social_aggregator.twitter:  Tweet 2: @SyakhaH9348 - Sun Apr 27 07:12:51 +0000 2025
+INFO:social_aggregator.twitter:    The $NOWK community is working very fast. Join now and become a Ninja and earn $5 for every quality ...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @SyakhaH9348]
+INFO:social_aggregator.twitter:Searching for keyword: solana massive gains
+INFO:social_aggregator.twitter:Fetched 12 new tweets for keyword: solana massive gains
+INFO:social_aggregator.twitter:Sample tweets for 'solana massive gains':
+INFO:social_aggregator.twitter:  Tweet 1: @CoxThibault - Sun Apr 27 05:43:26 +0000 2025
+INFO:social_aggregator.twitter:    #Piccolo - Entered at $74k, exited at 808K market cap a massive 10.9x return! 🚀💰🔥
+
+Join my TG Commun...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @CoxThibault]
+INFO:social_aggregator.twitter:  Tweet 2: @MerlijnTrader - Sun Apr 27 04:15:17 +0000 2025
+INFO:social_aggregator.twitter:    @RoundtableSpace @Cointelegraph Massive gains from staking Solana—what an incredible example of the ...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @MerlijnTrader]
+INFO:social_aggregator.twitter:Searching for keyword: next SOL gem
+INFO:social_aggregator.twitter:Fetched 12 new tweets for keyword: next SOL gem
+INFO:social_aggregator.twitter:Sample tweets for 'next SOL gem':
+INFO:social_aggregator.twitter:  Tweet 1: @Habibi_Degen - Sun Apr 27 07:10:16 +0000 2025
+INFO:social_aggregator.twitter:    $BWHL IS ABOUT TO MELT FACES 🔥🚀
+THE NEXT LEGENDARY GEM IS HERE
+
+WILL 100,000% PUMP AFTER LISTING ON ...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @Habibi_Degen]
+INFO:social_aggregator.twitter:  Tweet 2: @caucasianmafia - Sun Apr 27 06:41:47 +0000 2025
+INFO:social_aggregator.twitter:    @cottonxbt lowkey think this the next 100x gem https://t.co/5oWo5S9oqX
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @caucasianmafia]
+INFO:social_aggregator.twitter:Searching for keyword: SOL don't miss out
+INFO:social_aggregator.twitter:Fetched 10 new tweets for keyword: SOL don't miss out
+INFO:social_aggregator.twitter:Sample tweets for 'SOL don't miss out':
+INFO:social_aggregator.twitter:  Tweet 1: @Nuelsol_ - Sun Apr 27 07:24:04 +0000 2025
+INFO:social_aggregator.twitter:    @CryptoMoonMate @solflare @USDC @solana @Mastercard Don't miss out on this opportunity
+INFO:social_aggregator.twitter:  Tweet 2: @GeekMaxiSignals - Sun Apr 27 07:02:57 +0000 2025
+INFO:social_aggregator.twitter:    Yo, $MOM/SOL’s on fire! mc:161.59K, liq:48.30K. This is the move. Don’t miss out!
+
+Token:8Qtbdsz1bKN...
+INFO:social_aggregator.twitter:Searching for keyword: solana easy gains
+INFO:social_aggregator.twitter:Fetched 12 new tweets for keyword: solana easy gains
+INFO:social_aggregator.twitter:Sample tweets for 'solana easy gains':
+INFO:social_aggregator.twitter:  Tweet 1: @LuckyGo_agent - Sat Apr 26 21:15:52 +0000 2025
+INFO:social_aggregator.twitter:    Whales are loading up on $ARC at $60-65M MC. Smart money knows something? 🐳 @jaredadcrypto sees easy...
+INFO:social_aggregator.twitter:  Tweet 2: @subtrain56 - Fri Apr 25 23:06:57 +0000 2025
+INFO:social_aggregator.twitter:    $pvs @PVT_Paraverse 
+
+One of my favorite #Gems 
+partners #NVIDIA #alibaba #awspartners 
+#DYOR this p...
+INFO:social_aggregator.twitter:Searching for keyword: SOL pump soon
+INFO:social_aggregator.twitter:Fetched 4 new tweets for keyword: SOL pump soon
+INFO:social_aggregator.twitter:Sample tweets for 'SOL pump soon':
+INFO:social_aggregator.twitter:  Tweet 1: @_Bronze72 - Sun Apr 27 04:48:09 +0000 2025
+INFO:social_aggregator.twitter:    5/
+ Introducing PumpSwap:
+Pump’s native decentralized exchange (DEX) is now live!
+Thanks to @pumpdot...
+INFO:social_aggregator.twitter:  Tweet 2: @FORO_solana - Sun Apr 27 01:16:43 +0000 2025
+INFO:social_aggregator.twitter:    A cute little monster is watching you. Don't go into the forest.      
+ca: soon    
+#pumpfun #sol #s...
+INFO:social_aggregator.twitter:Searching for keyword: SOL airdrop huge
+INFO:social_aggregator.twitter:Fetched 8 new tweets for keyword: SOL airdrop huge
+INFO:social_aggregator.twitter:Sample tweets for 'SOL airdrop huge':
+INFO:social_aggregator.twitter:  Tweet 1: @brantwo99 - Sat Apr 26 19:14:31 +0000 2025
+INFO:social_aggregator.twitter:    @News_Arena_ That's exciting news! Speaking of airdrops, #SparkChainAI offers huge rewards for shari...
+INFO:social_aggregator.twitter:  Tweet 2: @Gazzzan10 - Sat Apr 26 12:37:34 +0000 2025
+INFO:social_aggregator.twitter:    @xelf_sol Huge airdrop
+INFO:social_aggregator.twitter:Searching for keyword: SOL early investors
+INFO:social_aggregator.twitter:Fetched 12 new tweets for keyword: SOL early investors
+INFO:social_aggregator.twitter:Sample tweets for 'SOL early investors':
+INFO:social_aggregator.twitter:  Tweet 1: @Distruxxn_Sol - Sat Apr 26 10:02:13 +0000 2025
+INFO:social_aggregator.twitter:    Early Alpha ~ Project just raised $10.5M From Lead Investors A16Z🚀🚀
+
+Cost: Free 
+Potential: $1500
+
+🔹...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @Distruxxn_Sol]
+INFO:social_aggregator.twitter:  Tweet 2: @Ennzcode - Sat Apr 26 08:12:05 +0000 2025
+INFO:social_aggregator.twitter:    @karlarc_ @lynk0x @DAW_on_SOL Early investors are in for big rewards
+INFO:social_aggregator.twitter:Searching for keyword: SOL token moon
+INFO:social_aggregator.twitter:Fetched 3 new tweets for keyword: SOL token moon
+INFO:social_aggregator.twitter:Sample tweets for 'SOL token moon':
+INFO:social_aggregator.twitter:  Tweet 1: @ReaderOnSol - Sun Apr 27 07:29:03 +0000 2025
+INFO:social_aggregator.twitter:    📖 $Reader Found a Meme!
+
+💎 $DMWA ( MC: 7.0K )
+🤖 DMWA: Dreamers Make Wads of Assets! This token fuels...
+INFO:social_aggregator.twitter:    [PUMP INDICATORS FOUND in tweet from @ReaderOnSol]
+INFO:social_aggregator.twitter:  Tweet 2: @icautopart - Sun Apr 27 04:47:37 +0000 2025
+INFO:social_aggregator.twitter:    @Bryan36krun @PapiTrumpo @MoonstersWeb3x @tensor_hq @MagicEden You’re not too early. You’re right on...
+INFO:social_aggregator.twitter:Searching for keyword: solana pump
+INFO:social_aggregator.twitter:Fetched 15 new tweets for keyword: solana pump
+INFO:social_aggregator.twitter:Sample tweets for 'solana pump':
+INFO:social_aggregator.twitter:  Tweet 1: @quan_eth - Sun Apr 27 07:29:34 +0000 2025
+INFO:social_aggregator.twitter:    This $SUI pump is wild
+
+Everyone pushing the “Next Solana” narrative heavy
+
+The gaming console looks...
+INFO:social_aggregator.twitter:  Tweet 2: @GeorgeInSolana - Sun Apr 27 07:26:27 +0000 2025
+INFO:social_aggregator.twitter:    @IamWisdom___ Accept it and donate to Ethereum Foundation to pump it 🤣
+INFO:social_aggregator.twitter:Total unique tweets fetched: 97
+WARNING:__main__:Found 19 high-confidence pump-and-dump tweets!
+WARNING:__main__:High confidence tweet #1: @SyakhaH9348 (0.70)
+WARNING:__main__:  The $NOWK community is working very fast. Join now and become a Ninja and earn $5 for every quality ...
+WARNING:__main__:High confidence tweet #2: @RAIKIRIII_ (0.70)
+WARNING:__main__:  Did you hear about $NOWK? yessss is @nowk_sol 
+
+This hidden gems, i sure..... To the moon with poten...
+WARNING:__main__:High confidence tweet #3: @apungbrkayy (0.70)
+WARNING:__main__:  Did you hear about $NOWK? yessss is @nowk_sol 
+
+This hidden gems, i sure..... To the moon with poten...
+INFO:__main__:--- Analyzing Tweets with AI ---
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Monitor stopped by user
+Loaded environment variables from /root/hackathon/solscan-proj/.env

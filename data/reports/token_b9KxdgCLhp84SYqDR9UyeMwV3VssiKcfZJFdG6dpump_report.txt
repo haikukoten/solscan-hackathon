@@ -1,0 +1,62 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: b9KxdgCLhp84SYqDR9UyeMwV3VssiKcfZJFdG6dpump
+ANALYSIS DATE: 2025-04-27 11:27:26
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: The token Micro Nigga exhibits strong characteristics of a pump and dump scheme, largely indicated by the significant holder concentration, aggressive selling by one major holder, and minimal decentralized finance (DeFi) activity.
+
+TOKEN METADATA
+----------------------------------------
+Name: Micro Nigga
+Symbol: MicroNigga
+Decimals: N/A
+Total Supply: 1000000000000000
+Holders (from meta): 5
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 5 holders displayed (from page 1):
+ #1: B6mQLWoaRL99dyQQVLxZpP51Rh2GoEpKmCHqLYZwRijS (Amount: 997611419595614, Approx: 99.7611%)
+ #2: 9QSupwfJP1abybycE4WLRydCyFbkrn8UvNoRoJF5EB92 (Amount: 1277017529201, Approx: 0.1277%)
+ #3: 5DTrdiux5C6gDd17FXuq6N7deztpCDC3QHoewRBj88me (Amount: 1011121713642, Approx: 0.1011%)
+ #4: FNwFGfz3ZvRpmP1kGdNWXmPrZEV135VHwqhrckMd7Us2 (Amount: 66666000000, Approx: 0.0067%)
+ #5: 8UqkM1gVqM8eJyPEJ2fQbVJg7WjCyNqSBK5ys7oBo4Ry (Amount: 33775161543, Approx: 0.0034%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 83
+Buy Transactions (Heuristic): 83
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 31
+Peak Hourly Volume: 1842800076230022.00 around 2025-04-27T11:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 11:26:41: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 9QSupw..) (Value: $5.31) 
+ #2 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: CECLzJ..) (Value: $7.44) 
+ #3 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 8Kxgfp..) (Value: $9.76) 
+ #4 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: DQN1tC..) (Value: $10.07) 
+ #5 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 8KHV62..) (Value: $28.05) 
+ #6 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: APcK4D..) (Value: $31.33) 
+ #7 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: H5YMoD..) (Value: $37.14) 
+ #8 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 9u8eXV..) (Value: $51.98) 
+ #9 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 9XX47w..) (Value: $58.56) 
+ #10 2025-04-27 11:26:40: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 7KC5ok..) (Value: $88.80) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: B6mQLWoaRL99dyQQVLxZpP51Rh2GoEpKmCHqLYZwRijS (77.07% approx balance)
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

@@ -1,0 +1,78 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: HWRpcStdLGqvaBwqiwp5kPzi1rdxQwnD8jmFRSLYpump
+ANALYSIS DATE: 2025-04-27 11:16:48
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: The MILHOUSE HOUSE token exhibits several characteristics indicative of a pump and dump scheme, particularly due to its highly centralized holder distribution and significant net selling by a few addresses shortly after transaction activity peaked.
+
+TOKEN METADATA
+----------------------------------------
+Name: MILHOUSE HOUSE
+Symbol: MILHOUSE
+Decimals: N/A
+Total Supply: 1000000000000000
+Holders (from meta): 17
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 17 holders displayed (from page 1):
+ #1: 83FmJTSfmKgUbEeJW3zxGsUG1tBAyWuA3ckDWnZhZB6x (Amount: 887489755260023, Approx: 88.7490%)
+ #2: BCpXfFTN1fK3cwCtwP99a8aT2YL93iatuFxrYXp9QbyA (Amount: 37889774475565, Approx: 3.7890%)
+ #3: 9UcxuA8nzij7qBXNoRVDp3PdJ54NXx8qWmdL9U6QDDKY (Amount: 28982969415532, Approx: 2.8983%)
+ #4: 6NufFxZBCpUaS92qL274J8zCh5epJ18RxZfj9skZXqDE (Amount: 13614770035162, Approx: 1.3615%)
+ #5: GbLgoV6dMZ3dZEdLqgEsQBg5pNjkGKDGA6SPYBEk8nY8 (Amount: 7960830842456, Approx: 0.7961%)
+ #6: 6nMAuEfrwMimFHhfJC2a5V1WRAAr6nyMR3s5hnLg3JNK (Amount: 6381925776158, Approx: 0.6382%)
+ #7: 3cePr9oikWb7Vv1BDYhdoiNZCrXBZCM5PdKN29a6t5nd (Amount: 6302571081527, Approx: 0.6303%)
+ #8: 5WFGx2eVmb5vLXxqC8kBL758f5ZVjDZJv8W9bSMfGeTd (Amount: 3088568845396, Approx: 0.3089%)
+ #9: BwNdrfyFKbmw9RZw11nSqDaPK3fCTi1FgT6qYEtn6fFx (Amount: 3052090284706, Approx: 0.3052%)
+ #10: 3mXp8dPz1caMT3JU6Bh1pY6mk1gCKnCpTp5JDEqmznqq (Amount: 1440056674935, Approx: 0.1440%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 162
+Buy Transactions (Heuristic): 162
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 65
+Peak Hourly Volume: 2195673940772503.00 around 2025-04-27T10:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 11:14:23: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: GbLgoV..) (Value: $20.36) 
+ #2 2025-04-27 11:14:13: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: HncJmv..) (Value: $3.37) 
+ #3 2025-04-27 11:12:52: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 9DYfDf..) (Value: $1.22) 
+ #4 2025-04-27 11:12:15: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 89zWnL..) (Value: $2.98) 
+ #5 2025-04-27 11:08:33: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 6nMAuE..) (Value: $14.70) 
+ #6 2025-04-27 11:08:11: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 8M9ALp..) (Value: $109.56) 
+ #7 2025-04-27 11:07:18: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 23Xfw1..) (Value: $15.49) 
+ #8 2025-04-27 11:04:51: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: BQtqrq..) (Value: $0.15) 
+ #9 2025-04-27 11:04:39: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: 8M9ALp..) (Value: $110.40) 
+ #10 2025-04-27 11:02:11: ACTIVITY_TOKEN_SWAP via 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P (From: BQtqrq..) (Value: $0.15) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: 83FmJTSfmKgUbEeJW3zxGsUG1tBAyWuA3ckDWnZhZB6x (69.73% approx balance)
+
+TWITTER PROMOTERS
+----------------------------------------
+Found 1 Twitter accounts promoting this token
+
+#1: @dizzytobi85 (Followers: 941, Influence: 0.00)
+   Sample Tweet (Sun Apr 27 10:44:45 +0000 2025): "@0xNullRoute @LexaproTrader @blknoiz06 #Milhouse builder: ElBarto
+
+#House #Housecoin 
+
+HWRpcStdLGqvaBwqiwp5kPzi1rdxQwnD8jmFRSLYpump..."
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

@@ -1,0 +1,152 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: qRUZaCpgxaRH1s5V6opjPA6Hnpv5BM37LqkDBw7pump
+ANALYSIS DATE: 2025-04-27 09:59:03
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.89)
+   AI Summary: The token '100 Men vs 1 Gorilla (MvG)' exhibits clear characteristics of a pump and dump scheme based on wallet activity, social signals, and transaction patterns.
+
+TOKEN METADATA
+----------------------------------------
+Name: 100 Men vs 1 Gorilla
+Symbol: MvG
+Decimals: 6
+Total Supply: 999905604328795
+Holders (from meta): 1810
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 20 holders displayed (from page 1):
+ #1: D9xNWf5z4oCfMyefXZg1QXVTm1YVyaCDVZtPjUvbo39N (Amount: 42966519746221, Approx: 4297057.5983%)
+ #2: ANY6m193bZQppKPggKS8NN4nF9cq7YJHroYPdXws9G5k (Amount: 41857567955866, Approx: 4186151.9502%)
+ #3: 928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T (Amount: 28000000000000, Approx: 2800264.3328%)
+ #4: AhRRzYPU4AWGxSadx1ngasEjF4YRqKN8KftJk9vx17F3 (Amount: 23013767488039, Approx: 2301594.0093%)
+ #5: BC8yiFFQWFEKrEEj75zYsuK3ZDCfv6QEeMRif9oZZ9TW (Amount: 18069471375043, Approx: 1807117.7216%)
+ #6: 49bNjb2QdaUbA9P7hQLeCvPUb6MdeyprktRE2G9DG4Mr (Amount: 18030359180945, Approx: 1803206.1329%)
+ #7: A1uN2qy46GvFVHwDwqh6n5pfvaeiW3hASzwoRvDsts7t (Amount: 15319732681864, Approx: 1532117.8935%)
+ #8: B3Huatrhzcw8ctyyJFxuUdrGhZvbMHsHQsWbKDzradGQ (Amount: 12300050245693, Approx: 1230121.1427%)
+ #9: EWJuYRkYc5rPRFoRkuuevVRwrkXBQgEQttwFXqDzG3Hs (Amount: 12222904775912, Approx: 1222405.8674%)
+ #10: Bffb9BvS2L8uwRH3DaHg5AAWSyfrEQBCnGW8kMTfigS3 (Amount: 11224723703794, Approx: 1122578.3369%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 500
+Buy Transactions (Heuristic): 500
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 222
+Peak Hourly Volume: 54537913395467.00 around 2025-04-27T09:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 09:58:40: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 4gTyci..) (Value: $281.40) 
+ #2 2025-04-27 09:58:35: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: GngtLP..) (Value: $2.92) 
+ #3 2025-04-27 09:58:34: ACTIVITY_TOKEN_REMOVE_LIQ via LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo (From: GngtLP..) (Value: $5.32) 
+ #4 2025-04-27 09:58:34: ACTIVITY_TOKEN_REMOVE_LIQ via LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo (From: GngtLP..) (Value: $133.48) 
+ #5 2025-04-27 09:58:30: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: APH9c1..) (Value: $477.38) 
+ #6 2025-04-27 09:58:27: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: C2tJkG..) (Value: $14.87) 
+ #7 2025-04-27 09:58:25: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: GqBip1..) (Value: $166.82) 
+ #8 2025-04-27 09:58:24: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: C7ET27..) (Value: $1.51) 
+ #9 2025-04-27 09:58:23: ACTIVITY_TOKEN_REMOVE_LIQ via LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo (From: Am79Rs..) (Value: $3.99) 
+ #10 2025-04-27 09:58:23: ACTIVITY_TOKEN_REMOVE_LIQ via LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo (From: Am79Rs..) (Value: $74.02) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+POTENTIAL DUMPERS (Identified by Heuristics)
+----------------------------------------
+ #1: H1mUBMpi9MX2wFd73jNtjrR6t2Shs5nCmvTqMsaAKusR (Sent: 1928260795348.00, Received: 162378229982.00, Ratio: 11.88)
+ #2: CVxUKFrWDYkE3gsZP9gyVmLD6XkXykk2ukKhAfNrJev8 (Sent: 197058124026.00, Received: 21758735607.00, Ratio: 9.06)
+ #3: 7uqNU9d8KPRFATwkxMySWwyQUEjxuuxNRCYoTSej8KYp (Sent: 201170274157.00, Received: 24787435298.00, Ratio: 8.12)
+ #4: 4ksX4UGayrDj9AxCaoPnfzscW6wp4LMtVqnPXMmixE7U (Sent: 117223553603.00, Received: 18808106768.00, Ratio: 6.23)
+ #5: HsjPW6DwDY3mCN55w8eDpFzP3a3CTPHvRcfJvcMAKFDa (Sent: 764258111645.00, Received: 233610769229.00, Ratio: 3.27)
+
+HEURISTIC PATTERNS DETECTED
+----------------------------------------
+• Found 15 potential dumpers
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: ANY6m193bZQppKPggKS8NN4nF9cq7YJHroYPdXws9G5k (36.33% approx balance)
+
+TWITTER PROMOTERS
+----------------------------------------
+Found 12 Twitter accounts promoting this token
+
+#1: @Lucid____sol (Followers: 5086, Influence: 6.00)
+   Sample Tweet (Sun Apr 27 09:18:43 +0000 2025): "Yoooo, this one's a straight banger! mc 2.25M, liq 176.01K, $MvG/SOL pair. This is how early winners move. Somethin' BIG just dropped. Don't miss out...."
+
+#2: @TvenMeme (Followers: 1091, Influence: 3.00)
+   Sample Tweet (Sun Apr 27 09:40:05 +0000 2025): "Ultra-Hype Mode:
+🔥 EARLY $MvG CALL! 🔥
+$14K ➔ $1.7M MCAP — massive 4.8x secured! 🚀📈
+VIP TG is printing nonstop.
+Follow NOW + Join — next plays are abou..."
+
+#3: @Adev8885 (Followers: 332, Influence: 0.60)
+   Sample Tweet (Sun Apr 27 09:55:11 +0000 2025): "💡 Smart💰 buys-&gt;37.92SOL 🚀
+
+├💎 : $MvG 
+├💹 CA: qRUZaCpgxaRH1s5V6opjPA6Hnpv5BM37LqkDBw7pump
+├🌈 MKT.Cap : 1.9M
+├🏆 TXs/Vol: 206/$39.8K
+
+📣 Alert &amp; 🤖 ..."
+
+#4: @CryptoScamHuntO (Followers: 17298, Influence: 0.00)
+   Sample Tweet (Sun Apr 27 09:43:29 +0000 2025): "⚠️SCAM ALERT - Crypto Scam Express Call (CSEC)
+#CryptoScam #MemeCoinScam #RugPull
+ON-CHAIN checked ✅ Bundles &amp; supply control.💀
+Not answering WHY ..."
+
+#5: @depunkedx (Followers: 9920, Influence: 0.00)
+   Sample Tweet (Sun Apr 27 09:40:19 +0000 2025): "@0r4ngejuix Obvious - bid what's trending and what you are watching: $MVG
+
+qRUZaCpgxaRH1s5V6opjPA6Hnpv5BM37LqkDBw7pump..."
+
+RELATED TWEETS (Sample)
+----------------------------------------
+Found 18 tweets mentioning this token
+
+Tweet 1: @Adev8885 (Sun Apr 27 09:55:11 +0000 2025)
+   Text: 💡 Smart💰 buys-&gt;37.92SOL 🚀
+
+├💎 : $MvG 
+├💹 CA: qRUZaCpgxaRH1s5V6opjPA6Hnpv5BM37LqkDBw7pump
+├🌈 MKT.Cap : 1.9M
+├🏆 TXs/Vol: 206/$39.8K
+
+📣 Alert &amp; 🤖 ...
+
+Tweet 2: @CryptoScamHuntO (Sun Apr 27 09:43:29 +0000 2025)
+   Text: ⚠️SCAM ALERT - Crypto Scam Express Call (CSEC)
+#CryptoScam #MemeCoinScam #RugPull
+ON-CHAIN checked ✅ Bundles &amp; supply control.💀
+Not answering WHY ...
+
+Tweet 3: @depunkedx (Sun Apr 27 09:40:19 +0000 2025)
+   Text: @0r4ngejuix Obvious - bid what's trending and what you are watching: $MVG
+
+qRUZaCpgxaRH1s5V6opjPA6Hnpv5BM37LqkDBw7pump...
+
+Tweet 4: @TvenMeme (Sun Apr 27 09:40:05 +0000 2025)
+   Text: Ultra-Hype Mode:
+🔥 EARLY $MvG CALL! 🔥
+$14K ➔ $1.7M MCAP — massive 4.8x secured! 🚀📈
+VIP TG is printing nonstop.
+Follow NOW + Join — next plays are abou...
+
+Tweet 5: @depunkedx (Sun Apr 27 09:36:48 +0000 2025)
+   Text: @gorillacapsol Would 100 men win the fight against gorilla?
+
+$MVG 
+qRUZaCpgxaRH1s5V6opjPA6Hnpv5BM37LqkDBw7pump...
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

@@ -1,0 +1,99 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: 9uyaDqodzFqQhXjFKPVB5GNHf8cj7M3ZG8nE3XBpump
+ANALYSIS DATE: 2025-04-27 10:57:21
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: The Protogent Antivirus Rap token exhibits strong indicators of a pump and dump scheme, supported by a highly centralized holder distribution, active selling patterns from specific wallets, and social media hype suggesting imminent price increases.
+
+TOKEN METADATA
+----------------------------------------
+Name: Protogent Antivirus Rap
+Symbol: Protogent
+Decimals: N/A
+Total Supply: 999974343072005
+Holders (from meta): 77
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 20 holders displayed (from page 1):
+ #1: FTXm1EcWeUW2Zw14AgkAks2qU42fK1dStMBs9N5fHeYc (Amount: 914887880825284, Approx: 91.4911%)
+ #2: 23HV4FAfMqMxhzWh9TEwS7rxjSCRiruRV3TRJTm8GoPx (Amount: 40734130248168, Approx: 4.0735%)
+ #3: CzXG8zADcoo4gHFeSxKJJRy4RRkZfLKVXR4T3enaPXYJ (Amount: 17582115792757, Approx: 1.7583%)
+ #4: 3QqLb3ASMbV3s3AVt6vM3MVbRRXNhpby16hnqUgX6R8K (Amount: 7499456814032, Approx: 0.7500%)
+ #5: GZJaedt3zbAzgPejYbS8XCutoiBzzbYmoMed3SjBkbik (Amount: 4293255460847, Approx: 0.4293%)
+ #6: 99CtZwabGiTqpvniqsqf35GCSiPMywW3obLAQZFcuFte (Amount: 4268521135440, Approx: 0.4269%)
+ #7: E2X7N76q2i7DBpaXe4nUTxEVnQ3k4CTPC2PCgMUFqFxL (Amount: 1637458213757, Approx: 0.1638%)
+ #8: Af6mZaAJPWZsNq5Fm2bu6cEwyo74CyLoWRuY7EbSwZaj (Amount: 1389428104503, Approx: 0.1389%)
+ #9: 13H2M1C3w2pwr6oYf6ZKcPGNut6mQedRAFzCpMF2iGJK (Amount: 1200260539416, Approx: 0.1200%)
+ #10: GXgatJinZz6hfj5N6PXuwm2Azevfme8FmyvxJstkP37w (Amount: 993011105497, Approx: 0.0993%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 500
+Buy Transactions (Heuristic): 500
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 489
+Peak Hourly Volume: 215541282797493.00 around 2025-04-27T09:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 10:52:24: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: CWvW8V..) (Value: $7.33) 
+ #2 2025-04-27 10:52:17: ACTIVITY_TOKEN_SWAP via 9RR5ZCvUU6rSEtE6iE4xQE4NeP9NMkbsfSsiEHCupj4M (From: CWvW8V..) (Value: $7.37) 
+ #3 2025-04-27 10:51:23: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 7NigoA..) (Value: $1.03) 
+ #4 2025-04-27 10:47:15: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: GN3V2S..) (Value: $0.53) 
+ #5 2025-04-27 10:45:20: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: 8RouWB..) (Value: $2.89) 
+ #6 2025-04-27 10:43:05: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: 4cWEAp..) (Value: $14.76) 
+ #7 2025-04-27 10:32:35: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: 6Vrvvf..) (Value: $1.48) 
+ #8 2025-04-27 10:30:31: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: 4cWEAp..) (Value: $14.82) 
+ #9 2025-04-27 10:26:44: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 88rbvQ..) (Value: $1.70) 
+ #10 2025-04-27 10:22:09: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 3Sd3yF..) (Value: $2.95) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+POTENTIAL DUMPERS (Identified by Heuristics)
+----------------------------------------
+ #1: AT8SqYZpq8T1L2CW6FkU4Yu6G9trL9qkJF7wqdfSHVt6 (Sent: 17883183207921.00, Received: 8966582561589.00, Ratio: 1.99)
+ #2: HsjPW6DwDY3mCN55w8eDpFzP3a3CTPHvRcfJvcMAKFDa (Sent: 26510003757620.00, Received: 17562073428071.00, Ratio: 1.51)
+
+HEURISTIC PATTERNS DETECTED
+----------------------------------------
+• Found 2 potential dumpers
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: FTXm1EcWeUW2Zw14AgkAks2qU42fK1dStMBs9N5fHeYc (60.41% approx balance)
+
+RELATED TWEETS (Sample)
+----------------------------------------
+Found 3 tweets mentioning this token
+
+Tweet 1: @RoyalCoinX (Sun Apr 27 09:21:22 +0000 2025)
+   Text: 🚀 #Protogent UPDATE DONE TP2
+MC: $297K | CA: 9uyaDqodzFqQhXjFKPVB5GNHf8cj7M3ZG8nE3XBpump
+🎯 Early calls: https://t.co/AgEhjX7wVo
+Not financial advice.
+...
+
+Tweet 2: @RoyalCoinX (Sun Apr 27 09:09:29 +0000 2025)
+   Text: 🚀 #Protogent UPDATE ATH +135% from entry
+MC: $256K | CA: 9uyaDqodzFqQhXjFKPVB5GNHf8cj7M3ZG8nE3XBpump
+🎯 Early calls: https://t.co/AgEhjX6Z5Q
+Not financ...
+
+Tweet 3: @RoyalCoinX (Sun Apr 27 09:07:39 +0000 2025)
+   Text: 🚀 #Protogent / $SOL
+ENTRY:136K-TARGET : 201K,298K,415K,532K,604K,X10,X16,7
+🧬 CA: 9uyaDqodzFqQhXjFKPVB5GNHf8cj7M3ZG8nE3XBpump
+🎯 Alpha group: https://t....
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

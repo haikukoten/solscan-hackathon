@@ -1,0 +1,395 @@
+{
+  "token_address": "5NCN3FdakSw87ZfaJWzrA7FWLNswU4PtS9Sysvfmpump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [
+    "Volume spike (3.28x)",
+    "Found 5 potential dumpers"
+  ],
+  "potential_dumpers": [
+    {
+      "address": "4y1WmunMANBi2dNQa5eDVFx8LDXkvTSG2DztGFuAwZYm",
+      "received": 1791866535988.0,
+      "sent": 24421765425988.0,
+      "net": -22629898890000.0,
+      "dump_ratio": 13.629232387289559
+    },
+    {
+      "address": "2RM3sTxdpcZ8HFsaK1rgvv5mh4qTgsLBsywNTAUC3x3e",
+      "received": 127743155543.0,
+      "sent": 861323038036.0,
+      "net": -733579882493.0,
+      "dump_ratio": 6.742615949752921
+    },
+    {
+      "address": "HUwgcjXkUVuotRi4SXSVDquJ8RazUeABqEx78eeGELbY",
+      "received": 2294894045695.0,
+      "sent": 4424880003163.0,
+      "net": -2129985957468.0,
+      "dump_ratio": 1.928141306333357
+    },
+    {
+      "address": "ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd",
+      "received": 7875329206.0,
+      "sent": 15007337897.0,
+      "net": -7132008691.0,
+      "dump_ratio": 1.9056140390380527
+    },
+    {
+      "address": "BRDo9PqshxGusvU7UNuKScMcoYhwjcXsyfn83tieXw1w",
+      "received": 1164691282481.0,
+      "sent": 1918662598722.0,
+      "net": -753971316241.0,
+      "dump_ratio": 1.6473572246843873
+    }
+  ],
+  "top_holders": [
+    {
+      "address": "6sRbe5J8KggcmjLJbP8wLPph64yXattgMb8xtb1Avd9F",
+      "received": 195102882550207.0,
+      "percent_of_supply": 39.64264232949048
+    },
+    {
+      "address": "6mZ5kT1F3sAAU2vpr8fs1a1MbwDnj6PNdKaCAkGzYrkQ",
+      "received": 51759845104423.0,
+      "percent_of_supply": 10.517000054965578
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": true,
+    "spike_factor": 3.2787383207972645,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-23T13:00:00",
+        "volume": 2135205081132.0
+      },
+      {
+        "timestamp": "2025-04-23T14:00:00",
+        "volume": 3413552931563.0
+      },
+      {
+        "timestamp": "2025-04-23T15:00:00",
+        "volume": 4920878248836.0
+      },
+      {
+        "timestamp": "2025-04-23T16:00:00",
+        "volume": 9869663084203.0
+      },
+      {
+        "timestamp": "2025-04-23T17:00:00",
+        "volume": 2316962634640.0
+      },
+      {
+        "timestamp": "2025-04-23T18:00:00",
+        "volume": 7397106080757.0
+      },
+      {
+        "timestamp": "2025-04-23T19:00:00",
+        "volume": 15924944674015.0
+      },
+      {
+        "timestamp": "2025-04-23T20:00:00",
+        "volume": 2425028584737.0
+      },
+      {
+        "timestamp": "2025-04-23T21:00:00",
+        "volume": 14436169177409.0
+      },
+      {
+        "timestamp": "2025-04-23T22:00:00",
+        "volume": 659234863449.0
+      },
+      {
+        "timestamp": "2025-04-24T00:00:00",
+        "volume": 214561214895.0
+      },
+      {
+        "timestamp": "2025-04-24T01:00:00",
+        "volume": 1004467738557.0
+      },
+      {
+        "timestamp": "2025-04-24T02:00:00",
+        "volume": 26063882457971.0
+      },
+      {
+        "timestamp": "2025-04-24T03:00:00",
+        "volume": 3167708340383.0
+      },
+      {
+        "timestamp": "2025-04-24T04:00:00",
+        "volume": 8838180909969.0
+      },
+      {
+        "timestamp": "2025-04-24T05:00:00",
+        "volume": 3224589293913.0
+      },
+      {
+        "timestamp": "2025-04-24T06:00:00",
+        "volume": 3792878939305.0
+      },
+      {
+        "timestamp": "2025-04-24T07:00:00",
+        "volume": 16443229500.0
+      },
+      {
+        "timestamp": "2025-04-24T08:00:00",
+        "volume": 58508101119.0
+      },
+      {
+        "timestamp": "2025-04-24T11:00:00",
+        "volume": 150000000000.0
+      },
+      {
+        "timestamp": "2025-04-24T12:00:00",
+        "volume": 51870193543.0
+      },
+      {
+        "timestamp": "2025-04-24T13:00:00",
+        "volume": 5790537515506.0
+      },
+      {
+        "timestamp": "2025-04-24T14:00:00",
+        "volume": 1602857540104.0
+      },
+      {
+        "timestamp": "2025-04-24T15:00:00",
+        "volume": 1019813048351.0
+      },
+      {
+        "timestamp": "2025-04-24T17:00:00",
+        "volume": 1479722852650.0
+      },
+      {
+        "timestamp": "2025-04-24T18:00:00",
+        "volume": 651968167829.0
+      },
+      {
+        "timestamp": "2025-04-24T19:00:00",
+        "volume": 2108769249297.0
+      },
+      {
+        "timestamp": "2025-04-24T20:00:00",
+        "volume": 4923806223822.0
+      },
+      {
+        "timestamp": "2025-04-24T21:00:00",
+        "volume": 5173980412685.0
+      },
+      {
+        "timestamp": "2025-04-24T22:00:00",
+        "volume": 395149197648.0
+      },
+      {
+        "timestamp": "2025-04-24T23:00:00",
+        "volume": 780731501979.0
+      },
+      {
+        "timestamp": "2025-04-25T00:00:00",
+        "volume": 3349647254792.0
+      },
+      {
+        "timestamp": "2025-04-25T01:00:00",
+        "volume": 30050468084.0
+      },
+      {
+        "timestamp": "2025-04-25T03:00:00",
+        "volume": 228094287975.0
+      },
+      {
+        "timestamp": "2025-04-25T04:00:00",
+        "volume": 1180610311.0
+      },
+      {
+        "timestamp": "2025-04-25T05:00:00",
+        "volume": 800693802568.0
+      },
+      {
+        "timestamp": "2025-04-25T06:00:00",
+        "volume": 596192587360.0
+      },
+      {
+        "timestamp": "2025-04-25T07:00:00",
+        "volume": 1621209028877.0
+      },
+      {
+        "timestamp": "2025-04-25T08:00:00",
+        "volume": 1613416282481.0
+      },
+      {
+        "timestamp": "2025-04-25T10:00:00",
+        "volume": 128903502606.0
+      },
+      {
+        "timestamp": "2025-04-25T11:00:00",
+        "volume": 5096086330196.0
+      },
+      {
+        "timestamp": "2025-04-25T12:00:00",
+        "volume": 887749624293.0
+      },
+      {
+        "timestamp": "2025-04-25T13:00:00",
+        "volume": 4572801404564.0
+      },
+      {
+        "timestamp": "2025-04-25T14:00:00",
+        "volume": 5278416300.0
+      },
+      {
+        "timestamp": "2025-04-25T15:00:00",
+        "volume": 39150640134.0
+      },
+      {
+        "timestamp": "2025-04-25T16:00:00",
+        "volume": 1018836269902.0
+      },
+      {
+        "timestamp": "2025-04-25T17:00:00",
+        "volume": 26310648774369.0
+      },
+      {
+        "timestamp": "2025-04-25T18:00:00",
+        "volume": 779034914545.0
+      },
+      {
+        "timestamp": "2025-04-25T19:00:00",
+        "volume": 760983392692.0
+      },
+      {
+        "timestamp": "2025-04-25T20:00:00",
+        "volume": 43140461157607.0
+      },
+      {
+        "timestamp": "2025-04-25T21:00:00",
+        "volume": 3834463609314.0
+      },
+      {
+        "timestamp": "2025-04-25T23:00:00",
+        "volume": 6279307425612.0
+      },
+      {
+        "timestamp": "2025-04-26T00:00:00",
+        "volume": 1923661913644.0
+      },
+      {
+        "timestamp": "2025-04-26T01:00:00",
+        "volume": 2053731368585.0
+      },
+      {
+        "timestamp": "2025-04-26T03:00:00",
+        "volume": 349373376468.0
+      },
+      {
+        "timestamp": "2025-04-26T04:00:00",
+        "volume": 7957377773246.0
+      },
+      {
+        "timestamp": "2025-04-26T05:00:00",
+        "volume": 4107879257202.0
+      },
+      {
+        "timestamp": "2025-04-26T06:00:00",
+        "volume": 728196805546.0
+      },
+      {
+        "timestamp": "2025-04-26T07:00:00",
+        "volume": 335977999000.0
+      },
+      {
+        "timestamp": "2025-04-26T08:00:00",
+        "volume": 780833334167.0
+      },
+      {
+        "timestamp": "2025-04-26T09:00:00",
+        "volume": 174686688234.0
+      },
+      {
+        "timestamp": "2025-04-26T10:00:00",
+        "volume": 363169408144.0
+      },
+      {
+        "timestamp": "2025-04-26T11:00:00",
+        "volume": 9130472924097.0
+      },
+      {
+        "timestamp": "2025-04-26T12:00:00",
+        "volume": 4534452181754.0
+      },
+      {
+        "timestamp": "2025-04-26T13:00:00",
+        "volume": 6167682774365.0
+      },
+      {
+        "timestamp": "2025-04-26T14:00:00",
+        "volume": 3599242391457.0
+      },
+      {
+        "timestamp": "2025-04-26T15:00:00",
+        "volume": 2325428635024.0
+      },
+      {
+        "timestamp": "2025-04-26T16:00:00",
+        "volume": 16136595124336.0
+      },
+      {
+        "timestamp": "2025-04-26T17:00:00",
+        "volume": 44528344137447.0
+      },
+      {
+        "timestamp": "2025-04-26T18:00:00",
+        "volume": 7056344116380.0
+      },
+      {
+        "timestamp": "2025-04-26T19:00:00",
+        "volume": 16745874652901.0
+      },
+      {
+        "timestamp": "2025-04-26T20:00:00",
+        "volume": 15314081670013.0
+      },
+      {
+        "timestamp": "2025-04-26T21:00:00",
+        "volume": 10323000000.0
+      },
+      {
+        "timestamp": "2025-04-26T23:00:00",
+        "volume": 1116860006005.0
+      },
+      {
+        "timestamp": "2025-04-27T01:00:00",
+        "volume": 6241576097836.0
+      },
+      {
+        "timestamp": "2025-04-27T04:00:00",
+        "volume": 8072982782965.0
+      },
+      {
+        "timestamp": "2025-04-27T05:00:00",
+        "volume": 536237398262.0
+      },
+      {
+        "timestamp": "2025-04-27T08:00:00",
+        "volume": 1324963093498.0
+      },
+      {
+        "timestamp": "2025-04-27T09:00:00",
+        "volume": 76466423296121.0
+      },
+      {
+        "timestamp": "2025-04-27T10:00:00",
+        "volume": 18967948803899.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 190
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "Gen Coin exhibits clear characteristics of a pump and dump scheme, evidenced by concentrated token distribution, significant net selling by top holders, and social media hype preceding substantial sell-offs.",
+    "detailed_report": ""
+  }
+}

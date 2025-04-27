@@ -1,0 +1,35 @@
+{
+  "token_address": "b9KxdgCLhp84SYqDR9UyeMwV3VssiKcfZJFdG6dpump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [],
+  "potential_dumpers": [],
+  "top_holders": [
+    {
+      "address": "B6mQLWoaRL99dyQQVLxZpP51Rh2GoEpKmCHqLYZwRijS",
+      "received": 1420205747912818.0,
+      "percent_of_supply": 77.06781469307607
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-27T11:00:00",
+        "volume": 1842800076230022.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 83,
+    "buys": 83,
+    "sells": 0,
+    "unique_wallets": 31
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The token Micro Nigga exhibits strong characteristics of a pump and dump scheme, largely indicated by the significant holder concentration, aggressive selling by one major holder, and minimal decentralized finance (DeFi) activity.",
+    "detailed_report": ""
+  }
+}

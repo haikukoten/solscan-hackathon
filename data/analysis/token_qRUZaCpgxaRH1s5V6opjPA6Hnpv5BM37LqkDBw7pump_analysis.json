@@ -1,0 +1,73 @@
+{
+  "token_address": "qRUZaCpgxaRH1s5V6opjPA6Hnpv5BM37LqkDBw7pump",
+  "is_pump_dump": true,
+  "confidence": 0.89,
+  "reasons": [
+    "Found 15 potential dumpers"
+  ],
+  "potential_dumpers": [
+    {
+      "address": "H1mUBMpi9MX2wFd73jNtjrR6t2Shs5nCmvTqMsaAKusR",
+      "received": 162378229982.0,
+      "sent": 1928260795348.0,
+      "net": -1765882565366.0,
+      "dump_ratio": 11.875118946436059
+    },
+    {
+      "address": "CVxUKFrWDYkE3gsZP9gyVmLD6XkXykk2ukKhAfNrJev8",
+      "received": 21758735607.0,
+      "sent": 197058124026.0,
+      "net": -175299388419.0,
+      "dump_ratio": 9.056506204459989
+    },
+    {
+      "address": "7uqNU9d8KPRFATwkxMySWwyQUEjxuuxNRCYoTSej8KYp",
+      "received": 24787435298.0,
+      "sent": 201170274157.0,
+      "net": -176382838859.0,
+      "dump_ratio": 8.115816410148396
+    },
+    {
+      "address": "4ksX4UGayrDj9AxCaoPnfzscW6wp4LMtVqnPXMmixE7U",
+      "received": 18808106768.0,
+      "sent": 117223553603.0,
+      "net": -98415446835.0,
+      "dump_ratio": 6.232607834959946
+    },
+    {
+      "address": "HsjPW6DwDY3mCN55w8eDpFzP3a3CTPHvRcfJvcMAKFDa",
+      "received": 233610769229.0,
+      "sent": 764258111645.0,
+      "net": -530647342416.0,
+      "dump_ratio": 3.271502055180624
+    }
+  ],
+  "top_holders": [
+    {
+      "address": "ANY6m193bZQppKPggKS8NN4nF9cq7YJHroYPdXws9G5k",
+      "received": 19812718890080.0,
+      "percent_of_supply": 36.32834051866525
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-27T09:00:00",
+        "volume": 54537913395467.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 222
+  },
+  "ai_analysis": {
+    "confidence": 0.89,
+    "summary": "The token '100 Men vs 1 Gorilla (MvG)' exhibits clear characteristics of a pump and dump scheme based on wallet activity, social signals, and transaction patterns.",
+    "detailed_report": ""
+  }
+}

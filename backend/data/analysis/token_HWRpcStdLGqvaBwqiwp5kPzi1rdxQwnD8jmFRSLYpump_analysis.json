@@ -1,0 +1,150 @@
+{
+  "token_address": "HWRpcStdLGqvaBwqiwp5kPzi1rdxQwnD8jmFRSLYpump",
+  "is_pump_dump": true,
+  "confidence": 0.9,
+  "reasons": [
+    "Volume spike (10.00x)",
+    "Found 2 potential dumpers"
+  ],
+  "potential_dumpers": [
+    {
+      "address": "dumper2",
+      "received": 30000,
+      "sent": 180000,
+      "net": -60000,
+      "dump_ratio": 6.0
+    },
+    {
+      "address": "dumper1",
+      "received": 50000,
+      "sent": 200000,
+      "net": -50000,
+      "dump_ratio": 4.0
+    }
+  ],
+  "top_holders": [
+    {
+      "address": "whale1",
+      "received": 1000000,
+      "percent_of_supply": 52.742616033755276
+    },
+    {
+      "address": "whale2",
+      "received": 800000,
+      "percent_of_supply": 42.19409282700422
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": true,
+    "spike_factor": 10.0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-26T11:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T12:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T13:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T14:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T15:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T16:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T17:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T18:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T19:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T20:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T21:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T22:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-26T23:21:48.894954",
+        "volume": 100000
+      },
+      {
+        "timestamp": "2025-04-27T00:21:48.894954",
+        "volume": 80000
+      },
+      {
+        "timestamp": "2025-04-27T01:21:48.894954",
+        "volume": 30000
+      },
+      {
+        "timestamp": "2025-04-27T02:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T03:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T04:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T05:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T06:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T07:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T08:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T09:21:48.894954",
+        "volume": 10000
+      },
+      {
+        "timestamp": "2025-04-27T10:21:48.894954",
+        "volume": 10000
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 100,
+    "buys": 30,
+    "sells": 70,
+    "unique_wallets": 7
+  },
+  "ai_analysis": {
+    "confidence": 0.9,
+    "summary": "The token 'MoonPump pump' exhibits clear characteristics of a pump and dump scheme, driven by concentrated sales from specific wallets following minimal holder engagement.",
+    "detailed_report": ""
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "token_address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [
+    "Found 3 potential dumpers",
+    "High concentration: 3 wallets hold 5%+ of supply"
+  ],
+  "potential_dumpers": [
+    {
+      "address": "J2G9Md8VfF8ZYRiiu5BwRhfa4XU5P6mZotFH1f9DCdu7",
+      "received": 35543963.0,
+      "sent": 147814111.0,
+      "net": -112270148.0,
+      "dump_ratio": 4.158627753466883
+    },
+    {
+      "address": "9mtUVqjS3mAHcu8hNmWxnTuMZ1Z6jxqMuJRQ4ijroiWK",
+      "received": 15101954108.0,
+      "sent": 47044765795.0,
+      "net": -31942811687.0,
+      "dump_ratio": 3.115144269315376
+    },
+    {
+      "address": "DMoiE7XvJJE3UwcuXacmApuUhz93oHcap9Uk4QUmeFZs",
+      "received": 16028332344.0,
+      "sent": 32825997239.0,
+      "net": -16797664895.0,
+      "dump_ratio": 2.047998290432753
+    }
+  ],
+  "top_holders": [
+    {
+      "address": "4w2cysotX6czaUGmmWg13hDpY4QEMG2CzeKYEQyK9Ama",
+      "received": 1232585274566.0,
+      "percent_of_supply": 19.08502225786723
+    },
+    {
+      "address": "GCvHhEUYQwTJ8jyf8Lc4bv8jBXyZU4LMMsZCobwEPzvM",
+      "received": 685898157594.0,
+      "percent_of_supply": 10.620264475349025
+    },
+    {
+      "address": "6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB",
+      "received": 650802069327.0,
+      "percent_of_supply": 10.076845987751392
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-27T12:00:00",
+        "volume": 6458390553136.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 183
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The TROLL token exhibits clear characteristics of a pump and dump scheme, driven by aggressive social media promotions, concentrated holder distribution, and significant net selling by a few wallets post-hype.",
+    "detailed_report": ""
+  }
+}

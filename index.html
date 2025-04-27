@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PUMP/DUMP Analysis Terminal</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PUMP/DUMP ANALYSIS TERMINAL</h1>
+            <div class="scanlines"></div>
+        </header>
+
+        <main>
+            <div class="controls">
+                <div class="search-container">
+                    <input type="text" id="token-address-input" placeholder="Enter Token Address...">
+                    <button id="analyze-button">Analyze</button>
+                </div>
+            </div>
+            
+            <div class="main-content-area">
+                <div class="report-display-wrapper">
+                     <pre id="report-content">ANALYSIS OUTPUT WILL APPEAR HERE //_</pre>
+                     <div class="glitch-overlay"></div>
+                </div>
+                
+                <div id="history-section" class="history-wrapper">
+                    <h2>// ANALYSIS HISTORY</h2>
+                    <ul id="history-list">
+                        <!-- History items will be added here by script.js -->
+                        <li class="placeholder">No analysis history yet...</li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>// SYSTEM STATUS: ONLINE //</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

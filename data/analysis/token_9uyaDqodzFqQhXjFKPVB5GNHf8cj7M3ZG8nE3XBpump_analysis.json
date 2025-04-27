@@ -1,0 +1,56 @@
+{
+  "token_address": "9uyaDqodzFqQhXjFKPVB5GNHf8cj7M3ZG8nE3XBpump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [
+    "Found 2 potential dumpers"
+  ],
+  "potential_dumpers": [
+    {
+      "address": "AT8SqYZpq8T1L2CW6FkU4Yu6G9trL9qkJF7wqdfSHVt6",
+      "received": 8966582561589.0,
+      "sent": 17883183207921.0,
+      "net": -8916600646332.0,
+      "dump_ratio": 1.9944257564223953
+    },
+    {
+      "address": "HsjPW6DwDY3mCN55w8eDpFzP3a3CTPHvRcfJvcMAKFDa",
+      "received": 17562073428071.0,
+      "sent": 26510003757620.0,
+      "net": -8947930329549.0,
+      "dump_ratio": 1.5095030701355991
+    }
+  ],
+  "top_holders": [
+    {
+      "address": "FTXm1EcWeUW2Zw14AgkAks2qU42fK1dStMBs9N5fHeYc",
+      "received": 146558190822887.0,
+      "percent_of_supply": 60.410585103630275
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-27T09:00:00",
+        "volume": 215541282797493.0
+      },
+      {
+        "timestamp": "2025-04-27T10:00:00",
+        "volume": 27062212221594.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 489
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The Protogent Antivirus Rap token exhibits strong indicators of a pump and dump scheme, supported by a highly centralized holder distribution, active selling patterns from specific wallets, and social media hype suggesting imminent price increases.",
+    "detailed_report": ""
+  }
+}

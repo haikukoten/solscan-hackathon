@@ -1,0 +1,35 @@
+{
+  "token_address": "3ySnc7e8oTFzXo22rc6TbAUCUuytn6cmf8LnnGqFpump",
+  "is_pump_dump": true,
+  "confidence": 0.9,
+  "reasons": [],
+  "potential_dumpers": [],
+  "top_holders": [
+    {
+      "address": "Unknown",
+      "received": 25383116393195.0,
+      "percent_of_supply": 100.0
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "1970-01-01T00:00:00",
+        "volume": 25383116393195.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 1
+  },
+  "ai_analysis": {
+    "confidence": 0.9,
+    "summary": "The token 3ySnc7e8oTFzXo22rc6TbAUCUuytn6cmf8LnnGqFpump exhibits characteristics consistent with a pump and dump scheme, supported by transaction patterns and social media hype.",
+    "detailed_report": ""
+  }
+}

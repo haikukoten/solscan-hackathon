@@ -1,0 +1,202 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2
+ANALYSIS DATE: 2025-04-27 12:05:12
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: The TROLL token exhibits clear characteristics of a pump and dump scheme, driven by aggressive social media promotions, concentrated holder distribution, and significant net selling by a few wallets post-hype.
+
+TOKEN METADATA
+----------------------------------------
+Name: TROLL
+Symbol: TROLL
+Decimals: 6
+Total Supply: 998999659295253
+Holders (from meta): 13023
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 20 holders displayed (from page 1):
+ #1: 9ZPsRWGkukYeWg2Z7eZ8NaTBZ1DSuBUVzLcGQWZgE4Y4 (Amount: 27,783,247.7930, Approx: 2.7811%)
+ #2: 5gwETnzto2avSMA33RKawJxeJ3Yr2JYk1YreL2ghwZwh (Amount: 26,576,297.2425, Approx: 2.6603%)
+ #3: 4w2cysotX6czaUGmmWg13hDpY4QEMG2CzeKYEQyK9Ama (Amount: 22,886,821.6101, Approx: 2.2910%)
+ #4: DfMq5FZeLwghzzs6pq1HMF3VPCQXkp9AxUZSAk8kSrSk (Amount: 21,800,000.8008, Approx: 2.1822%)
+ #5: 9qpucJgTkTVSbMPksG4fequu9STgFxr9AQmLN25MwiBV (Amount: 20,832,187.4464, Approx: 2.0853%)
+ #6: 2QqVVfm3EqtqvDrZJKeiBWTbPcGRkscD7MzKpziC6EXn (Amount: 20,170,468.5657, Approx: 2.0191%)
+ #7: 5vSPCzSq8Nsy7L6izJ1zRJxYV5vZLJJCM2uqUx67tnPE (Amount: 15,348,922.6011, Approx: 1.5364%)
+ #8: 6yUh6uJ7UpCGQXSXkrgQyFLDEcs61YXabVar34ia4p1L (Amount: 14,285,836.0683, Approx: 1.4300%)
+ #9: 5KFD5jZWzMxH8ejbSLWJTRQYUtcHN9WUZUXN5pnmRn7Y (Amount: 13,747,568.6114, Approx: 1.3761%)
+ #10: E2WXkz29eYFqX6CRywimX2i38E3V7A7czsDncAYKCkjc (Amount: 12,606,459.8011, Approx: 1.2619%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 500
+Buy Transactions (Heuristic): 500
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 183
+Peak Hourly Volume: 6458390553136.00 around 2025-04-27T12:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 12:04:49: ACTIVITY_TOKEN_SWAP via BN111JnbLtbmQqqiCh7h2pDKhAhMx4wi77Mj7jJFbyp8 (From: FG8LEP..) (Value: $146.16) 
+ #2 2025-04-27 12:04:49: ACTIVITY_AGG_TOKEN_SWAP via BN111JnbLtbmQqqiCh7h2pDKhAhMx4wi77Mj7jJFbyp8 (From: FG8LEP..) (Value: $145.98) 
+ #3 2025-04-27 12:04:36: ACTIVITY_TOKEN_SWAP via Dd5uZwHr4bZYnkSzHwRaaq5BEvS5NHsJZErKJu7YSjhg (From: 7qbNi8..) (Value: $49.01) 
+ #4 2025-04-27 12:04:36: ACTIVITY_TOKEN_SWAP via Dd5uZwHr4bZYnkSzHwRaaq5BEvS5NHsJZErKJu7YSjhg (From: 7qbNi8..) (Value: $48.93) 
+ #5 2025-04-27 12:04:36: ACTIVITY_TOKEN_SWAP via BN111JnbLtbmQqqiCh7h2pDKhAhMx4wi77Mj7jJFbyp8 (From: FG8LEP..) (Value: $49.12) 
+ #6 2025-04-27 12:04:36: ACTIVITY_AGG_TOKEN_SWAP via BN111JnbLtbmQqqiCh7h2pDKhAhMx4wi77Mj7jJFbyp8 (From: FG8LEP..) (Value: $49.03) 
+ #7 2025-04-27 12:04:35: ACTIVITY_TOKEN_SWAP via 6MWVTis8rmmk6Vt9zmAJJbmb3VuLpzoQ1aHH4N6wQEGh (From: CzYQ2k..) (Value: $8.16) 
+ #8 2025-04-27 12:04:35: ACTIVITY_TOKEN_SWAP via 6MWVTis8rmmk6Vt9zmAJJbmb3VuLpzoQ1aHH4N6wQEGh (From: CzYQ2k..) (Value: $8.14) 
+ #9 2025-04-27 12:04:35: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: CRBkth..) (Value: $291.21) 
+ #10 2025-04-27 12:04:34: ACTIVITY_TOKEN_SWAP via Dd5uZwHr4bZYnkSzHwRaaq5BEvS5NHsJZErKJu7YSjhg (From: 7qbNi8..) (Value: $17.10) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+SAMPLE RELATED TWEETS (From Scan)
+----------------------------------------
+Found 19 tweets mentioning the token (showing up to 5):
+
+ Tweet #1 by @Tozy112522 (N/A)
+   Text: 🚨
+
+Troll community, avoid any tag that isn't from @trololol_io or @_Shadow36.
+
+ I've got tagged by a scam account wanting me to click a link to get troll airdrop reward.  Don't be fooled. 💎🫵
+ 
+$Troll
+...
+   Link: https://x.com/Tozy112522/status/1916462277126955128
+
+ Tweet #2 by @PlaceBeyond (N/A)
+   Text: 🚨 $Troll Update 🚨
+
+@trololol_io CA:
+
+5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/gwHueXBVaL
+   Link: https://x.com/PlaceBeyond/status/1916450095131713989
+
+ Tweet #3 by @SkandalGermany3 (N/A)
+   Text: SEND $TROLL TO THE FCKING MOON
+
+CA : 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/XWNxScKLNX
+   Link: https://x.com/SkandalGermany3/status/1916448887394488653
+
+ Tweet #4 by @ThorSR_ (N/A)
+   Text: $troll will moon soon it’s inevitable.
+
+ 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/ffFcfDa8S1
+   Link: https://x.com/ThorSR_/status/1916444246023774653
+
+ Tweet #5 by @Adev8885 (N/A)
+   Text: 💡 Smart💰 buys-&gt;10.78SOL 🚀
+
+├💎 : $TROLL 
+├💹 CA: 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2
+├🎯 MKT.Cap : 16.6M
+├🔥 TXs/Vol: 127/$17.4K
+
+📣 Alert &amp; 🤖 Quick buy 👉👉 https://t.co/R1x7Twm4sI💎
+🔃- Follo...
+   Link: https://x.com/Adev8885/status/1916436234479812747
+
+POTENTIAL DUMPERS (Identified by Heuristics)
+----------------------------------------
+ #1: J2G9Md8VfF8ZYRiiu5BwRhfa4XU5P6mZotFH1f9DCdu7 (Sent: 147.8141, Received: 35.5440, Ratio: 4.16)
+ #2: 9mtUVqjS3mAHcu8hNmWxnTuMZ1Z6jxqMuJRQ4ijroiWK (Sent: 47,044.7658, Received: 15,101.9541, Ratio: 3.12)
+ #3: DMoiE7XvJJE3UwcuXacmApuUhz93oHcap9Uk4QUmeFZs (Sent: 32,825.9972, Received: 16,028.3323, Ratio: 2.05)
+
+HEURISTIC PATTERNS DETECTED
+----------------------------------------
+• Found 3 potential dumpers
+• High concentration: 3 wallets hold 5%+ of supply
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+(Based on total received tokens during analysis window)
+#1: 4w2cysotX6czaUGmmWg13hDpY4QEMG2CzeKYEQyK9Ama (Received: 1,232,585.2746, Approx Holding: 19.09%)
+#2: GCvHhEUYQwTJ8jyf8Lc4bv8jBXyZU4LMMsZCobwEPzvM (Received: 685,898.1576, Approx Holding: 10.62%)
+#3: 6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB (Received: 650,802.0693, Approx Holding: 10.08%)
+
+TWITTER PROMOTERS
+----------------------------------------
+Found 12 Twitter accounts promoting this token
+
+#1: @ThorSR_ (Followers: 325, Influence: 0.60)
+   Sample Tweet (Sun Apr 27 10:48:08 +0000 2025): "$troll will moon soon it’s inevitable.
+
+ 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/ffFcfDa8S1..."
+
+#2: @Adev8885 (Followers: 333, Influence: 0.60)
+   Sample Tweet (Sun Apr 27 10:16:18 +0000 2025): "💡 Smart💰 buys-&gt;10.78SOL 🚀
+
+├💎 : $TROLL 
+├💹 CA: 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2
+├🎯 MKT.Cap : 16.6M
+├🔥 TXs/Vol: 127/$17.4K
+
+📣 Alert &amp..."
+
+#3: @SkandalGermany3 (Followers: 10, Influence: 0.20)
+   Sample Tweet (Sun Apr 27 11:06:35 +0000 2025): "SEND $TROLL TO THE FCKING MOON
+
+CA : 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/XWNxScKLNX..."
+
+#4: @Hasan141789 (Followers: 65, Influence: 0.20)
+   Sample Tweet (Sun Apr 27 09:09:24 +0000 2025): "@CallenderCrypto @nft_cryptogang 🚀 
+
+5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2..."
+
+#5: @Tozy112522 (Followers: 23, Influence: 0.00)
+   Sample Tweet (Sun Apr 27 11:59:47 +0000 2025): "🚨
+
+Troll community, avoid any tag that isn't from @trololol_io or @_Shadow36.
+
+ I've got tagged by a scam account wanting me to click a link to get tr..."
+
+RELATED TWEETS (Sample)
+----------------------------------------
+Found 19 tweets mentioning this token
+
+Tweet 1: @Tozy112522 (Sun Apr 27 11:59:47 +0000 2025)
+   Text: 🚨
+
+Troll community, avoid any tag that isn't from @trololol_io or @_Shadow36.
+
+ I've got tagged by a scam account wanting me to click a link to get tr...
+
+Tweet 2: @PlaceBeyond (Sun Apr 27 11:11:23 +0000 2025)
+   Text: 🚨 $Troll Update 🚨
+
+@trololol_io CA:
+
+5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/gwHueXBVaL...
+
+Tweet 3: @SkandalGermany3 (Sun Apr 27 11:06:35 +0000 2025)
+   Text: SEND $TROLL TO THE FCKING MOON
+
+CA : 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/XWNxScKLNX...
+
+Tweet 4: @ThorSR_ (Sun Apr 27 10:48:08 +0000 2025)
+   Text: $troll will moon soon it’s inevitable.
+
+ 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2 https://t.co/ffFcfDa8S1...
+
+Tweet 5: @Adev8885 (Sun Apr 27 10:16:18 +0000 2025)
+   Text: 💡 Smart💰 buys-&gt;10.78SOL 🚀
+
+├💎 : $TROLL 
+├💹 CA: 5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2
+├🎯 MKT.Cap : 16.6M
+├🔥 TXs/Vol: 127/$17.4K
+
+📣 Alert &amp...
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

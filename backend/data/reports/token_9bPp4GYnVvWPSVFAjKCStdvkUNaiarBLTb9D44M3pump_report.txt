@@ -1,0 +1,65 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: 9bPp4GYnVvWPSVFAjKCStdvkUNaiarBLTb9D44M3pump
+ANALYSIS DATE: 2025-04-27 10:20:34
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: The MoonPump pump token exhibits clear indicators of a pump and dump scheme, primarily driven by a single wallet executing substantial sell orders shortly after significant DEX activity, alongside a concentration of ownership with minimal holder engagement.
+
+TOKEN METADATA
+----------------------------------------
+Name: MoonPump pump
+Symbol: PUMPpump
+Decimals: 9
+Total Supply: 100000000
+Holders (from meta): 150
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 5 holders displayed (from page 1):
+ #1: whale1 (Amount: 0.001000000, Approx: 1.0000%)
+ #2: whale2 (Amount: 0.000800000, Approx: 0.8000%)
+ #3: dumper1 (Amount: 0.000100000, Approx: 0.1000%)
+ #4: user1 (Amount: 0.000005000, Approx: 0.0050%)
+ #5: exchange_wallet (Amount: 0.000050000, Approx: 0.0500%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 100
+Buy Transactions (Heuristic): 30
+Sell Transactions (Heuristic): 70
+Unique Wallets Involved: 7
+Peak Hourly Volume: 100000.00 around 2025-04-26T23:20:25.695704
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 2 recent activities:
+ #1 2025-04-27 09:20:25: Swap via Raydium (From: dumper..) (Value: $5000.00) 
+ #2 2025-04-27 08:20:25: LiquidityAdd via Raydium (From: whale1..) (Value: $10000.00) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+POTENTIAL DUMPERS (Identified by Heuristics)
+----------------------------------------
+ #1: dumper2 (Sent: 180000.00, Received: 30000.00, Ratio: 6.00)
+ #2: dumper1 (Sent: 200000.00, Received: 50000.00, Ratio: 4.00)
+
+HEURISTIC PATTERNS DETECTED
+----------------------------------------
+• Volume spike (10.00x)
+• Found 2 potential dumpers
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: whale1 (52.74% approx balance)
+#2: whale2 (42.19% approx balance)
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

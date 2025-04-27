@@ -1,0 +1,12 @@
+requests>=2.30.0
+openai>=1.0.0 # For GPT-4o-mini interaction
+python-dotenv>=1.0.0 # For loading .env files
+tenacity>=8.2.0 # For retrying API calls
+regex>=2023.0.0 # For improved regex pattern matching (useful for address extraction)
+Flask>=3.0.0 # For the web API
+Flask-Cors>=4.0.0 # For handling Cross-Origin Resource Sharing
+# Optional dependencies for enhancing functionality:
+# vaderSentiment>=3.3.2 # For basic sentiment analysis as fallback
+# pandas>=2.0.0 # For data analysis and storage
+# python-telegram-bot>=20.5 # For Telegram alerts
+# discord.py>=2.3.0 # For Discord alerts 

@@ -1,0 +1,116 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump
+ANALYSIS DATE: 2025-04-27 11:18:08
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: The token exhibits clear signs of a pump and dump scheme, characterized by large sell-offs from top holders after a brief period of increased trading volume and price activity.
+
+TOKEN METADATA
+----------------------------------------
+Name: Chicken Jockey
+Symbol: jockey
+Decimals: 6
+Total Supply: 999915970122045
+Holders (from meta): 5878
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 20 holders displayed (from page 1):
+ #1: FYkuC1aeHV5ZiaUh6wF7zuuvc3B5heHzwuerXLWwMU88 (Amount: 56208513940168, Approx: 5621323.7532%)
+ #2: 3M7d3F8aUuyRFmeQNF3w32HrY6VAU4MC3ZZy2wD6jr1U (Amount: 20155513001474, Approx: 2015720.6809%)
+ #3: 64U9MukooWV5ziNXx2PCmZNmktBzQoKXnKsDBLvgCQ5g (Amount: 19263942350249, Approx: 1926556.1233%)
+ #4: 3Mm56wKokx4Ye4ejZy9uPDi62niQqvu5tWgGi7yGxFQ1 (Amount: 16710228041945, Approx: 1671163.2318%)
+ #5: uzCU4DRN6Eqscq7SoZhNLw13sGxbu8wNZcMrrbenYR1 (Amount: 15104927145251, Approx: 1510619.6517%)
+ #6: 6BaB71iPPytxHMH5cPAnsT1rgDUPpFHiYx5PgsFqcUwZ (Amount: 14010246442290, Approx: 1401142.3821%)
+ #7: 7iWLmeiZD8gKXYNgV36C9yqSAWp7FMuJK8SKc6nCy1o9 (Amount: 13994414468813, Approx: 1399559.0517%)
+ #8: vj8TGiAcgT8a1tZqAaBSsViwDwrJZ2W3giczThR1hpr (Amount: 11948426408819, Approx: 1194943.0518%)
+ #9: E82uKSzbi1YHuEPDkVV93xz5zE7phNeMmENQieyyX3kH (Amount: 10471828430117, Approx: 1047270.8451%)
+ #10: 6CZ3WppMRg9hLHvQbuVvjdgdNLucLU2AgyTctvRYdyaN (Amount: 10194480833615, Approx: 1019533.7547%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 500
+Buy Transactions (Heuristic): 500
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 108
+Peak Hourly Volume: 19232401097779.00 around 2025-04-27T11:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 11:17:42: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 2Unyr2..) (Value: $5.90) 
+ #2 2025-04-27 11:17:42: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: AJ7Cpv..) (Value: $4.91) 
+ #3 2025-04-27 11:17:42: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 3uMvb7..) (Value: $13.19) 
+ #4 2025-04-27 11:17:33: ACTIVITY_TOKEN_SWAP via 2VxcbQDXkbaLHzShMsJGieXGTd239FbNseX1Qx6yLW7V (From: 2fWyMU..) (Value: $3.32) 
+ #5 2025-04-27 11:17:33: ACTIVITY_TOKEN_SWAP via 2VxcbQDXkbaLHzShMsJGieXGTd239FbNseX1Qx6yLW7V (From: 2fWyMU..) (Value: $3.22) 
+ #6 2025-04-27 11:17:32: ACTIVITY_TOKEN_SWAP via Dd5uZwHr4bZYnkSzHwRaaq5BEvS5NHsJZErKJu7YSjhg (From: HXzkks..) (Value: $0.37) 
+ #7 2025-04-27 11:17:32: ACTIVITY_TOKEN_SWAP via Dd5uZwHr4bZYnkSzHwRaaq5BEvS5NHsJZErKJu7YSjhg (From: HXzkks..) (Value: $0.37) 
+ #8 2025-04-27 11:17:32: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: DHXhWe..) (Value: $148.12) 
+ #9 2025-04-27 11:17:25: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 2Rf9qz..) (Value: $34.38) 
+ #10 2025-04-27 11:17:14: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 2Unyr2..) (Value: $0.71) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+POTENTIAL DUMPERS (Identified by Heuristics)
+----------------------------------------
+ #1: AhDaBYAfRi6p2MirffgTbDvazFURmkPEiy9ojcfTyYyG (Sent: 118669005456.00, Received: 8836257790.00, Ratio: 13.43)
+ #2: K89C5ELTX98KiKET8PQCqe15NzogVgo9QqixYtuH4ok (Sent: 186743622668.00, Received: 15899707384.00, Ratio: 11.75)
+ #3: FNZf9aSQHQTBSfeTcby8ZdArzYKiaUrNxSD8VBiZkoP8 (Sent: 88899750707.00, Received: 7823160166.00, Ratio: 11.36)
+ #4: E9y7EhFQ888rm4Wi3nPsby6CU366TaSCNc54dVTRYjkw (Sent: 120252769634.00, Received: 10607077179.00, Ratio: 11.34)
+ #5: 6Kw7xSJnapk5PtpxK5XF6mmmXi8x1NQSjyZyLcaXyQDg (Sent: 36457930976.00, Received: 3518053818.00, Ratio: 10.36)
+
+HEURISTIC PATTERNS DETECTED
+----------------------------------------
+• Found 11 potential dumpers
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: FYkuC1aeHV5ZiaUh6wF7zuuvc3B5heHzwuerXLWwMU88 (30.19% approx balance)
+#2: 4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71 (10.47% approx balance)
+
+TWITTER PROMOTERS
+----------------------------------------
+Found 12 Twitter accounts promoting this token
+
+#1: @nothaansolo (Followers: 2017, Influence: 6.00)
+   Sample Tweet (Sun Apr 27 07:55:33 +0000 2025): "@Dior100x @blknoiz06 pivot to Chicken Jockey bro
+
+B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump https://t.co/r5vY9LZvRi..."
+
+#2: @kklumao (Followers: 621, Influence: 1.20)
+   Sample Tweet (Sun Apr 27 04:41:43 +0000 2025): "$jockey #chickenjockey  moont shot  @moonshot 上榜首。B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump https://t.co/rxFlCBuSc9..."
+
+#3: @Erin_linnq (Followers: 236, Influence: 0.40)
+   Sample Tweet (Sun Apr 27 05:30:49 +0000 2025): "🎖️ Whale - Buy-&gt;29.76SOL $jockey 🎖️
+
+🎯 𝖢𝖠 : B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump
+💫 𝟣𝟢𝗆 𝖳𝖷𝗌 : 50/$12.4K
+💯 𝖬𝖢𝖯 : 3.3M
+
+📣 Alert &amp; 🚀Fast Tr..."
+
+#4: @Wu5532111 (Followers: 256, Influence: 0.40)
+   Sample Tweet (Sun Apr 27 05:15:00 +0000 2025): "🎖️ Whale - Buy-&gt;10.22SOL $jockey 🎖️
+
+🌟 𝖢𝖠 : B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump
+🌟 𝟣𝟢𝗆 𝖳𝖷𝗌 : 34/$3.7K
+🌟 𝖬𝖢𝖯 : 3.4M
+
+📣 Alert &amp; 🚀Fast Tra..."
+
+#5: @Tylmintttt (Followers: 938, Influence: 0.00)
+   Sample Tweet (Sun Apr 27 11:07:48 +0000 2025): "B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump
+
+Buy back? 
+2m8 now https://t.co/ryZ99hco4k..."
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

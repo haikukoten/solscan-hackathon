@@ -1,0 +1,35 @@
+{
+  "token_address": "2eEbb8tE2r68KE3YVNyKN6J2YrceCQ9hJH6FxkZ3pump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [],
+  "potential_dumpers": [],
+  "top_holders": [
+    {
+      "address": "Unknown",
+      "received": 562120901448138.0,
+      "percent_of_supply": 100.0
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "1970-01-01T00:00:00",
+        "volume": 562120901448138.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 1
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The token appears highly suspicious of being involved in a pump and dump scheme given the on-chain activity and social media hype surrounding it.",
+    "detailed_report": ""
+  }
+}

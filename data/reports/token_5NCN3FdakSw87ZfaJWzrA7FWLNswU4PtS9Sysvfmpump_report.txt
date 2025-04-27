@@ -1,0 +1,92 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: 5NCN3FdakSw87ZfaJWzrA7FWLNswU4PtS9Sysvfmpump
+ANALYSIS DATE: 2025-04-27 10:57:39
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: Gen Coin exhibits clear characteristics of a pump and dump scheme, evidenced by concentrated token distribution, significant net selling by top holders, and social media hype preceding substantial sell-offs.
+
+TOKEN METADATA
+----------------------------------------
+Name: Gen Coin
+Symbol: Gen
+Decimals: 6
+Total Supply: 999926076318000
+Holders (from meta): 328
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 20 holders displayed (from page 1):
+ #1: 6sRbe5J8KggcmjLJbP8wLPph64yXattgMb8xtb1Avd9F (Amount: 131794278267745, Approx: 13180402.1706%)
+ #2: By6sbAysr2yb7PEmmeaJZNwRUN6e8DrU9KMXTf7BNShb (Amount: 24589431000000, Approx: 2459124.8876%)
+ #3: 6mZ5kT1F3sAAU2vpr8fs1a1MbwDnj6PNdKaCAkGzYrkQ (Amount: 24087719571955, Approx: 2408950.0357%)
+ #4: 4sB2Do6UKcjNxKrZopEzNtx5kuWfH7oSmwgpFxXx8HXs (Amount: 22232525338715, Approx: 2223416.8970%)
+ #5: Cq7YLbeX7wZMjCoo1kCE1DpeR4KktnGnRLmNmWNyidyf (Amount: 19884186162232, Approx: 1988565.6183%)
+ #6: mqHAJp3ooDkRmQ1BkjUKzTR2LXD8BTmJbDBDwUQ3PNg (Amount: 19884186162231, Approx: 1988565.6183%)
+ #7: Dh62C5KDLeQZMw9yAePEXuhs3KrvNbQxmrb5WFssiFjs (Amount: 19529763980579, Approx: 1953120.7799%)
+ #8: 5c6y1ifu9fo9cN4G9v65SLoPwZsG232DxzdnQreGQfyx (Amount: 19052129989144, Approx: 1905353.8497%)
+ #9: 2wRSaoxP9ozbA1jgfN8y5ZmfpKGXske5v7cW1QB2WHmw (Amount: 18937514187386, Approx: 1893891.4222%)
+ #10: 8FhUHuByqFjrcu8g5nc7F4SX3fK9ZwEZFfh3rEpTBhUj (Amount: 18764383736205, Approx: 1876577.0971%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 500
+Buy Transactions (Heuristic): 500
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 190
+Peak Hourly Volume: 76466423296121.00 around 2025-04-27T09:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 10:46:18: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 6mZ5kT..) (Value: $44.46) 
+ #2 2025-04-27 10:46:08: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 6mZ5kT..) (Value: $44.46) 
+ #3 2025-04-27 10:45:59: ACTIVITY_TOKEN_SWAP via AQdoMDeM9t7xTuL6KmeraRMnghG6QapcfYuKRm2h9aqR (From: GHPCCh..) (Value: $101.12) 
+ #4 2025-04-27 10:45:59: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 6mZ5kT..) (Value: $59.21) 
+ #5 2025-04-27 10:45:59: ACTIVITY_TOKEN_SWAP via AQdoMDeM9t7xTuL6KmeraRMnghG6QapcfYuKRm2h9aqR (From: GHPCCh..) (Value: $100.99) 
+ #6 2025-04-27 10:45:36: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 7aaDrf..) (Value: $3.86) 
+ #7 2025-04-27 10:17:26: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: firFzS..) (Value: $14.83) 
+ #8 2025-04-27 10:02:40: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: 4XxHFd..) (Value: $74.19) 
+ #9 2025-04-27 10:02:24: ACTIVITY_TOKEN_SWAP via B91piBSfCBRs5rUxCMRdJEGv7tNEnFxweWcdQJHJoFpi (From: 4vJfp6..) (Value: $954.60) 
+ #10 2025-04-27 10:02:24: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: 4XxHFd..) (Value: $162.91) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+POTENTIAL DUMPERS (Identified by Heuristics)
+----------------------------------------
+ #1: 4y1WmunMANBi2dNQa5eDVFx8LDXkvTSG2DztGFuAwZYm (Sent: 24421765425988.00, Received: 1791866535988.00, Ratio: 13.63)
+ #2: 2RM3sTxdpcZ8HFsaK1rgvv5mh4qTgsLBsywNTAUC3x3e (Sent: 861323038036.00, Received: 127743155543.00, Ratio: 6.74)
+ #3: HUwgcjXkUVuotRi4SXSVDquJ8RazUeABqEx78eeGELbY (Sent: 4424880003163.00, Received: 2294894045695.00, Ratio: 1.93)
+ #4: ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd (Sent: 15007337897.00, Received: 7875329206.00, Ratio: 1.91)
+ #5: BRDo9PqshxGusvU7UNuKScMcoYhwjcXsyfn83tieXw1w (Sent: 1918662598722.00, Received: 1164691282481.00, Ratio: 1.65)
+
+HEURISTIC PATTERNS DETECTED
+----------------------------------------
+• Volume spike (3.28x)
+• Found 5 potential dumpers
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: 6sRbe5J8KggcmjLJbP8wLPph64yXattgMb8xtb1Avd9F (39.64% approx balance)
+#2: 6mZ5kT1F3sAAU2vpr8fs1a1MbwDnj6PNdKaCAkGzYrkQ (10.52% approx balance)
+
+RELATED TWEETS (Sample)
+----------------------------------------
+Found 2 tweets mentioning this token
+
+Tweet 1: @TrippaSOL (Sat Apr 26 15:42:29 +0000 2025)
+   Text: @BryanG5290 $GEN runs receipts.  Every new token scanned. Every wallet mapped.  Alpha that shows up before the hype does.  CA - 5NCN3FdakSw87ZfaJWzrA7...
+
+Tweet 2: @TrippaSOL (Sat Apr 26 15:30:36 +0000 2025)
+   Text: @Tsomisol Forget gut calls.  $GEN runs receipts.  Every new token scanned. Every wallet mapped.  Alpha that shows up before the hype does.  
+CA - 5NCN...
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

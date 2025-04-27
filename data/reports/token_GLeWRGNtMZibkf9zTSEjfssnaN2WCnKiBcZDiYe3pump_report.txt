@@ -1,0 +1,95 @@
+================================================================================
+PUMP AND DUMP ANALYSIS REPORT: GLeWRGNtMZibkf9zTSEjfssnaN2WCnKiBcZDiYe3pump
+ANALYSIS DATE: 2025-04-27 10:57:07
+================================================================================
+
+OVERALL ASSESSMENT
+----------------------------------------
+⚠️ POTENTIAL PUMP AND DUMP DETECTED! (Confidence: 0.85)
+   AI Summary: The analysis suggests that the token 'paperclip' is likely a pump and dump scheme, driven by significant sell-offs by top holders and social media hype.
+
+TOKEN METADATA
+----------------------------------------
+Name: flip this into a house
+Symbol: paperclip
+Decimals: 6
+Total Supply: 999933432483270
+Holders (from meta): 3956
+Mint Authority: None
+Freeze Authority: None
+
+HOLDER INFORMATION (Page 1 Sample)
+----------------------------------------
+Top 20 holders displayed (from page 1):
+ #1: GYTVhDvNVKNKLVh7cD1odLP4XkFmoPMPKQQs8MfghKgV (Amount: 66755911751173, Approx: 6676035.5822%)
+ #2: 3VSZB3dduLQ8hx5SbNksLzkKTZvxhBDbVfk9fadCcYWW (Amount: 30000000000000, Approx: 3000199.7158%)
+ #3: 6rxeLzvTnjNosu9qagW3jSHnspFTN1kPpTX5TyxAMkda (Amount: 27059970572998, Approx: 2706177.2008%)
+ #4: Ekje1gRDgb2W8FP7BkNtyanTLDHZfCdRT91G1nYBsvGM (Amount: 24832459843867, Approx: 2483411.2989%)
+ #5: 4f3xFa5uaPS57teBw8cPk8N5QoPW4rCa9WmfSQXhi7ED (Amount: 20920239158353, Approx: 2092163.1859%)
+ #6: 9g8meNKh9wPHPnejH8JYxSNRVLcV2pEvM5TwvzLiFJbz (Amount: 19842153995512, Approx: 1984347.4926%)
+ #7: DRSSBsFoYY3ShzX2uvqoukWaTdLHsma8BBWfcQkHBbyk (Amount: 19538616135627, Approx: 1953991.6859%)
+ #8: 3js2tEnPqZkVZdNmT1CLQ2sUK1RkiXFfi6TqJEZ66FcV (Amount: 12781617108217, Approx: 1278246.8005%)
+ #9: 69btoSQZsEgXbVb8uQSJ29QhqMQe2S7KrJXDLfb3vNVD (Amount: 10212132702366, Approx: 1021281.2544%)
+ #10: 2dLXeirAVrmKLGWXCXn9iSV1UuxR2S9cNmURURTcoV5K (Amount: 9741950163439, Approx: 974259.8704%)
+
+TRANSACTION OVERVIEW
+----------------------------------------
+Total Transactions Analyzed: 500
+Buy Transactions (Heuristic): 500
+Sell Transactions (Heuristic): 0
+Unique Wallets Involved: 288
+Peak Hourly Volume: 41411040327218.00 around 2025-04-27T10:00:00
+
+RECENT DEFI ACTIVITY (Page 1 Sample)
+----------------------------------------
+Displaying 20 recent activities:
+ #1 2025-04-27 10:56:47: ACTIVITY_TOKEN_SWAP via GMGNEaLkcH1QFd5buhBH4511bX9D2NHWeYcMFASNY9qC (From: CkEphx..) (Value: $296.68) 
+ #2 2025-04-27 10:56:42: ACTIVITY_TOKEN_ADD_LIQ via LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo (From: 7tEmTm..) (Value: $216.34) 
+ #3 2025-04-27 10:56:33: ACTIVITY_TOKEN_SWAP via routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS (From: BiaTUo..) (Value: $0.93) 
+ #4 2025-04-27 10:56:32: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 5XW48r..) (Value: $26.20) 
+ #5 2025-04-27 10:56:32: ACTIVITY_TOKEN_SWAP via pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA (From: 4Mh2XN..) (Value: $14.88) 
+ #6 2025-04-27 10:56:31: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 3JUxeL..) (Value: $76.17) 
+ #7 2025-04-27 10:56:31: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: BY8pYk..) (Value: $20.80) 
+ #8 2025-04-27 10:56:26: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: 3ZAr9d..) (Value: $7.86) 
+ #9 2025-04-27 10:56:26: ACTIVITY_TOKEN_SWAP via HgoHJy31rnpmm99CaoKn72g1QDLf6A8vzqEKAXCyBFv5 (From: hjQKwF..) (Value: $1.47) 
+ #10 2025-04-27 10:56:25: ACTIVITY_AGG_TOKEN_SWAP via JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 (From: E8xDh8..) (Value: $36.82) 
+
+AI ANALYSIS NARRATIVE
+----------------------------------------
+AI analysis did not provide a detailed narrative.
+
+POTENTIAL DUMPERS (Identified by Heuristics)
+----------------------------------------
+ #1: 9s5wEu4GmKAsozeR8qDQsqAHkRJRcs6hzn62EQB9qokm (Sent: 15229300896.00, Received: 2521071857.00, Ratio: 6.04)
+ #2: HsjPW6DwDY3mCN55w8eDpFzP3a3CTPHvRcfJvcMAKFDa (Sent: 1253561528127.00, Received: 444002075011.00, Ratio: 2.82)
+ #3: 8DsvsT97CQh74sxYNKKzxe51bmKPxpS23rNbJuvH2Qo4 (Sent: 15998801623.00, Received: 6182500448.00, Ratio: 2.59)
+ #4: 3ZAr9dKtjkojXxX2tAZ7qqkk22XyDoah7QPGGB3v2C3P (Sent: 18320458864.00, Received: 8189675042.00, Ratio: 2.24)
+ #5: HkMRZA4LX9hgnprxviBRrXojZz24G3fTiwCAuZWQhMrV (Sent: 13004464325.00, Received: 5883440619.00, Ratio: 2.21)
+
+HEURISTIC PATTERNS DETECTED
+----------------------------------------
+• Found 7 potential dumpers
+
+TOP HOLDERS (Heuristic Analysis)
+----------------------------------------
+#1: GYTVhDvNVKNKLVh7cD1odLP4XkFmoPMPKQQs8MfghKgV (45.57% approx balance)
+
+RELATED TWEETS (Sample)
+----------------------------------------
+Found 2 tweets mentioning this token
+
+Tweet 1: @sheelipish (Sun Apr 27 09:49:42 +0000 2025)
+   Text: 📎 One paperclip, endless possibilities. ♾️📎
+I'm with $PAPERCLIP from the jump. 🔥
+📜 CA: GLeWRGNtMZibkf9zTSEjfssnaN2WCnKiBcZDiYe3pump
+📣 Telegram: https:...
+
+Tweet 2: @sheelipish (Sun Apr 27 09:18:59 +0000 2025)
+   Text: 📎 Flip, grind, conquer. $PAPERCLIP style. 🔄💥
+I fully support this gem. 💎
+📜 CA: GLeWRGNtMZibkf9zTSEjfssnaN2WCnKiBcZDiYe3pump
+📣 Telegram: https://t.co/T...
+
+================================================================================
+NOTE: This is an automated analysis. Always conduct your own research.
+================================================================================

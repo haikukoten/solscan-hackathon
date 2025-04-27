@@ -1,0 +1,78 @@
+{
+  "token_address": "B91Nyc6SnWqr5DRR34eEMKuZrWh4zBhW9VhX4UNLpump",
+  "is_pump_dump": true,
+  "confidence": 0.85,
+  "reasons": [
+    "Found 11 potential dumpers"
+  ],
+  "potential_dumpers": [
+    {
+      "address": "AhDaBYAfRi6p2MirffgTbDvazFURmkPEiy9ojcfTyYyG",
+      "received": 8836257790.0,
+      "sent": 118669005456.0,
+      "net": -109832747666.0,
+      "dump_ratio": 13.429780827614357
+    },
+    {
+      "address": "K89C5ELTX98KiKET8PQCqe15NzogVgo9QqixYtuH4ok",
+      "received": 15899707384.0,
+      "sent": 186743622668.0,
+      "net": -170843915284.0,
+      "dump_ratio": 11.745098079976087
+    },
+    {
+      "address": "FNZf9aSQHQTBSfeTcby8ZdArzYKiaUrNxSD8VBiZkoP8",
+      "received": 7823160166.0,
+      "sent": 88899750707.0,
+      "net": -81076590541.0,
+      "dump_ratio": 11.363662359025259
+    },
+    {
+      "address": "E9y7EhFQ888rm4Wi3nPsby6CU366TaSCNc54dVTRYjkw",
+      "received": 10607077179.0,
+      "sent": 120252769634.0,
+      "net": -109645692455.0,
+      "dump_ratio": 11.337031644502188
+    },
+    {
+      "address": "6Kw7xSJnapk5PtpxK5XF6mmmXi8x1NQSjyZyLcaXyQDg",
+      "received": 3518053818.0,
+      "sent": 36457930976.0,
+      "net": -32939877158.0,
+      "dump_ratio": 10.363096434018225
+    }
+  ],
+  "top_holders": [
+    {
+      "address": "FYkuC1aeHV5ZiaUh6wF7zuuvc3B5heHzwuerXLWwMU88",
+      "received": 5806591937956.0,
+      "percent_of_supply": 30.19171609636697
+    },
+    {
+      "address": "4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71",
+      "received": 2012691069187.0,
+      "percent_of_supply": 10.465105521428782
+    }
+  ],
+  "volume_analysis": {
+    "has_spike": false,
+    "spike_factor": 0,
+    "hourly_data": [
+      {
+        "timestamp": "2025-04-27T11:00:00",
+        "volume": 19232401097779.0
+      }
+    ]
+  },
+  "transaction_summary": {
+    "total": 500,
+    "buys": 500,
+    "sells": 0,
+    "unique_wallets": 108
+  },
+  "ai_analysis": {
+    "confidence": 0.85,
+    "summary": "The token exhibits clear signs of a pump and dump scheme, characterized by large sell-offs from top holders after a brief period of increased trading volume and price activity.",
+    "detailed_report": ""
+  }
+}
